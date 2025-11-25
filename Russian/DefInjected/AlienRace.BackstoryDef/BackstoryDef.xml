@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- CHILD BACKSTORIES -->
+
+  <Kurin_BackstoryChild_01.title>Куринский сирота</Kurin_BackstoryChild_01.title>
+  <Kurin_BackstoryChild_01.titleShort>Сирота</Kurin_BackstoryChild_01.titleShort>
+  <Kurin_BackstoryChild_01.baseDescription>Родители [PAWN_nameDef] были убиты людьми, когда [PAWN_pronoun] была маленькой. Из-за этого у [PAWN_pronoun] развилось ПТСР, и после многих лет психотерапии стало намного лучше, но [PAWN_pronoun] всё ещё мучилась яркими воспоминаниями о том дне, когда видела кошмары.</Kurin_BackstoryChild_01.baseDescription>
+
+  <Kurin_BackstoryChild_02.title>Куринская юная служанка</Kurin_BackstoryChild_02.title>
+  <Kurin_BackstoryChild_02.titleShort>Служанка</Kurin_BackstoryChild_02.titleShort>
+  <Kurin_BackstoryChild_02.baseDescription>Родители [PAWN_nameDef] потеряли всё состояние в крупной аварии и оказались в больших долгах. Богатая куринка, пожалев [PAWN_pronoun] и её семью, устроила [PAWN_nameDef] выполнять мелкую работу в особняке. [PAWN_pronoun] присматривала за дочерью и также подружилась с ней.</Kurin_BackstoryChild_02.baseDescription>
+
+  <Kurin_BackstoryChild_03.title>Участница куринской лисьей стаи</Kurin_BackstoryChild_03.title>
+  <Kurin_BackstoryChild_03.titleShort>Лисья стая</Kurin_BackstoryChild_03.titleShort>
+  <Kurin_BackstoryChild_03.baseDescription>История о добровольном отряде "Лисья стая" была самым популярным телевизионным аниме среди юных куринок. [PAWN_nameDef] создала после уроков свой отряд "Лисья стая" и вместе с друзьями бродила по пустырям и переулкам, становясь защитницей, охраняющей покой провинциального города. Правда, из-за отличной безопасности дел было не так уж много.</Kurin_BackstoryChild_03.baseDescription>
+
+  <Kurin_BackstoryChild_04.title>Куринская изгой</Kurin_BackstoryChild_04.title>
+  <Kurin_BackstoryChild_04.titleShort>Изгой</Kurin_BackstoryChild_04.titleShort>
+  <Kurin_BackstoryChild_04.baseDescription>[PAWN_nameDef] была ребёнком с редкими ледяными глазами. Среди куринок это считалось дурным знаком, и [PAWN_pronoun] росла одиноким ребёнком под презрительными взглядами и холодным отношением всех — от детей до взрослых.</Kurin_BackstoryChild_04.baseDescription>
+
+  <Kurin_BackstoryChild_05.title>Куринский трудный подросток</Kurin_BackstoryChild_05.title>
+  <Kurin_BackstoryChild_05.titleShort>Трудный подросток</Kurin_BackstoryChild_05.titleShort>
+  <Kurin_BackstoryChild_05.baseDescription>[PAWN_nameDef] была куринкой, которой тайно восхищались некоторые дети, но которая была большой головной болью для учителей. Среди её типичных проступков были: прогулы уборки, непослушание учителям и вход в дом без вытирания обуви в прихожей. Все трепетали от страха.</Kurin_BackstoryChild_05.baseDescription>
+
+  <Kurin_BackstoryChild_06.title>Куринский сирота из трущоб</Kurin_BackstoryChild_06.title>
+  <Kurin_BackstoryChild_06.titleShort>Сирота</Kurin_BackstoryChild_06.titleShort>
+  <Kurin_BackstoryChild_06.baseDescription>[PAWN_nameDef] провела детство, роясь в мусорных баках и питаясь заплесневелым хлебом. Хотя и были учреждения, помогающие детям, когда Куринская республика вложила все государственные ресурсы в строительство иммиграционных кораблей, [PAWN_pronoun] не смогла получить нормальной социальной помощи и жила в картонной коробке, построенной в переулке.</Kurin_BackstoryChild_06.baseDescription>
+
+  <Kurin_BackstoryChild_07.title>Куринский ловец мячей</Kurin_BackstoryChild_07.title>
+  <Kurin_BackstoryChild_07.titleShort>Ловец мячей</Kurin_BackstoryChild_07.titleShort>
+  <Kurin_BackstoryChild_07.baseDescription>[PAWN_nameDef], которая очень любила бейсбол, была фанатом, следовавшим за любимой командой в странах людей, где проходили крупнейшие лиги. [PAWN_pronoun], бегавшая на каждую игру, иногда попадала в кадр, и её существование постепенно стало известно клубу, пока в итоге [PAWN_pronoun] не стала работать подбирающей мячи для команды.</Kurin_BackstoryChild_07.baseDescription>
+
+  <Kurin_BackstoryChild_08.title>Куринский работник зоопарка</Kurin_BackstoryChild_08.title>
+  <Kurin_BackstoryChild_08.titleShort>Работник</Kurin_BackstoryChild_08.titleShort>
+  <Kurin_BackstoryChild_08.baseDescription>[PAWN_nameDef] была студенткой, работавшей для учёбы. Из-за множества сестёр семья была бедной, и чтобы самостоятельно заработать на обучение, [PAWN_pronoun] помогала с мелкими делами в зоопарке. [PAWN_pronoun] поручили ухаживать за относительно простыми травоядными и давать им корм, и так [PAWN_pronoun] зарабатывала деньги и усердно училась.</Kurin_BackstoryChild_08.baseDescription>
+  
+  <Kurin_BackstoryChild_09.title>Куринская ленивица</Kurin_BackstoryChild_09.title>
+  <Kurin_BackstoryChild_09.titleShort>Ленивица</Kurin_BackstoryChild_09.titleShort>
+  <Kurin_BackstoryChild_09.baseDescription>[PAWN_nameDef] чувствовала, что и учёба, и игры — всё было в тягость, и заперлась в своей комнате. [PAWN_pronoun] не выходила из комнаты ни на шаг, лишь исправно получала еду и погружалась в игры. Даже когда друзья приходили поиграть, [PAWN_pronoun] была такой же, и из-за редкого мытья в комнате стоял неприятный запах. У родителей из-за [PAWN_pronoun] болела голова.</Kurin_BackstoryChild_09.baseDescription>
+  
+  <Kurin_BackstoryChild_10.title>Куринский обычный ребёнок</Kurin_BackstoryChild_10.title>
+  <Kurin_BackstoryChild_10.titleShort>Обычный ребёнок</Kurin_BackstoryChild_10.titleShort>
+  <Kurin_BackstoryChild_10.baseDescription>Родившаяся в обычной семье среднего класса, [PAWN_nameDef] росла в тёплой родительской любви. Как и другие дети её возраста, [PAWN_pronoun] любила весело играть и есть сладкие макаруны. Иногда экзамены сдавались хорошо, иногда плохо, но [PAWN_pronoun] была добрым ребёнком, умевшим думать о других куринках.</Kurin_BackstoryChild_10.baseDescription>
+  
+  <Kurin_BackstoryChild_11.title>Куринский киберспортсмен</Kurin_BackstoryChild_11.title>
+  <Kurin_BackstoryChild_11.titleShort>Киберспортсмен</Kurin_BackstoryChild_11.titleShort>
+  <Kurin_BackstoryChild_11.baseDescription>Навыки [PAWN_nameDef] в играх были исключительными. Даже в новую игру [PAWN_pronoun] быстро начинала играть умело, а в привычных играх [PAWN_pronoun] была настолько хороша, что входила в десятку лучших. [PAWN_pronoun] участвовала в различных турнирах и даже побеждала, но если интернет отключался, [PAWN_pronoun] становилась вялой лисой, которой ничего не хотелось делать.</Kurin_BackstoryChild_11.baseDescription>
+  
+  <Kurin_BackstoryChild_12.title>Куринский деревенский ребёнок</Kurin_BackstoryChild_12.title>
+  <Kurin_BackstoryChild_12.titleShort>Деревенский ребёнок</Kurin_BackstoryChild_12.titleShort>
+  <Kurin_BackstoryChild_12.baseDescription>[PAWN_nameDef] провела детство на природе: собирала грибы в горах, гоняла кошек в полях, переворачивала камни в ручьях и ловила раков или рыбу, чтобы запечь. Кожа немного загорала на солнце, но [PAWN_pronoun] не обращала на это внимания и росла здоровой.</Kurin_BackstoryChild_12.baseDescription>
+  
+  <Kurin_BackstoryChild_13.title>Куринский городской ребёнок</Kurin_BackstoryChild_13.title>
+  <Kurin_BackstoryChild_13.titleShort>Городской ребёнок</Kurin_BackstoryChild_13.titleShort>
+  <Kurin_BackstoryChild_13.baseDescription>[PAWN_nameDef] росла в городе с развитой инфраструктурой, просторными парками и лесом небоскрёбов. Её дом находился в оживлённом городе куринок, где [PAWN_pronoun] могла без недостатка наслаждаться всем, чем хотела: кружками по интересам, культурной жизнью, VR-играми. Но больше всего [PAWN_pronoun] любила путешествовать вместе с семьёй.</Kurin_BackstoryChild_13.baseDescription>
+  
+  <Kurin_BackstoryChild_14.title>Куринский юный художник</Kurin_BackstoryChild_14.title>
+  <Kurin_BackstoryChild_14.titleShort>Художник</Kurin_BackstoryChild_14.titleShort>
+  <Kurin_BackstoryChild_14.baseDescription>[PAWN_nameDef] любила рисовать и у неё был талант. Когда [PAWN_pronoun] начинала рисовать, [PAWN_pronoun] настолько концентрировалась, что не слышала, как её зовут, и часто получала выговоры от учителей за рисование во время уроков, но её энтузиазм было не остановить.</Kurin_BackstoryChild_14.baseDescription>
+  
+  <Kurin_BackstoryChild_15.title>Синдром одного хвоста у куринки</Kurin_BackstoryChild_15.title>
+  <Kurin_BackstoryChild_15.titleShort>Синдром одного хвоста</Kurin_BackstoryChild_15.titleShort>
+  <Kurin_BackstoryChild_15.baseDescription>[PAWN_nameDef] родилась с одним хвостом, в отличие от других. Хотя это никак не мешало жизни или здоровью, из-за замедленного развития [PAWN_pronoun] выглядела намного моложе своих сверстников. В детстве [PAWN_pronoun] часто дразнили, но с возрастом [PAWN_pronoun] стала популярна благодаря своей милой внешности, превосходившей даже других куринок.</Kurin_BackstoryChild_15.baseDescription>
+  
+  <Kurin_BackstoryChild_16.title>Куринский пугливый ребёнок</Kurin_BackstoryChild_16.title>
+  <Kurin_BackstoryChild_16.titleShort>Пугливый ребёнок</Kurin_BackstoryChild_16.titleShort>
+  <Kurin_BackstoryChild_16.baseDescription>[PAWN_nameDef] была очень пугливым ребёнком. [PAWN_pronoun] вздрагивала от гудков и даже не думала о драках. Всё вокруг было полно страшных вещей. И тени ночи, и тихие звуки, слышимые во сне. Больше всего [PAWN_pronoun] ненавидела насекомых — стоило появиться жуку, как [PAWN_pronoun] в панике бросалась бежать.</Kurin_BackstoryChild_16.baseDescription>
+  
+  <Kurin_BackstoryChild_17.title>Куринский добрый ребёнок</Kurin_BackstoryChild_17.title>
+  <Kurin_BackstoryChild_17.titleShort>Добрый ребёнок</Kurin_BackstoryChild_17.titleShort>
+  <Kurin_BackstoryChild_17.baseDescription>[PAWN_nameDef] была добрым ребёнком. [PAWN_pronoun] всегда хорошо выслушивала рассказы друзей и искренне утешала друзей, у которых были трудности. Также [PAWN_pronoun] могла одним словом сделать день друзей brighter, [PAWN_pronoun] была доброй по натуре.</Kurin_BackstoryChild_17.baseDescription>
+  
+  <Kurin_BackstoryChild_18.title>Куринский бедный ребёнок</Kurin_BackstoryChild_18.title>
+  <Kurin_BackstoryChild_18.titleShort>Бедный ребёнок</Kurin_BackstoryChild_18.titleShort>
+  <Kurin_BackstoryChild_18.baseDescription>[PAWN_nameDef] жила бедно в детстве. Её родители работали допоздна, и [PAWN_pronoun] жила одна и повзрослела немного раньше других. Мечтой [PAWN_pronoun] была высокооплачиваемая профессия, и [PAWN_pronoun] усердно училась, чтобы достичь своей мечты.</Kurin_BackstoryChild_18.baseDescription>
+  
+  <Kurin_BackstoryChild_19.title>Куринский ребёнок из чайного дома</Kurin_BackstoryChild_19.title>
+  <Kurin_BackstoryChild_19.titleShort>Ребёнок из чайного дома</Kurin_BackstoryChild_19.titleShort>
+  <Kurin_BackstoryChild_19.baseDescription>С детства [PAWN_nameDef] помогала родителям по работе после возвращения из школы. [PAWN_pronoun] принимала заказы, убиралась. Постоянные клиенты часто давали [PAWN_pronoun] деньги на карманные расходы. На эти деньги [PAWN_pronoun] покупала мороженое или копила.</Kurin_BackstoryChild_19.baseDescription>
+  
+  <Kurin_BackstoryChild_20.title>Куринская дочь тофу-мастера</Kurin_BackstoryChild_20.title>
+  <Kurin_BackstoryChild_20.titleShort>Дочь тофу-мастера</Kurin_BackstoryChild_20.titleShort>
+  <Kurin_BackstoryChild_20.baseDescription>Семья [PAWN_nameDef] из поколения в поколение занималась изготовлением тофу традиционным способом и владела старым магазином, которому уже около ста лет. [PAWN_pronoun] росла, учась у матери, что тофу, который любят люди, и вкусную юбу, которую так любят куринки, нужно готовить с душой.</Kurin_BackstoryChild_20.baseDescription>
+  
+  <Kurin_BackstoryChild_21.title>Куринский посыльный из района развлечений</Kurin_BackstoryChild_21.title>
+  <Kurin_BackstoryChild_21.titleShort>Посыльный</Kurin_BackstoryChild_21.titleShort>
+  <Kurin_BackstoryChild_21.baseDescription>Наём маленьких детей на работу в районе развлечений незаконен в Куринской республике. Но [PAWN_nameDef] зарабатывала в районе развлечений, зазывая куринок, выполняя поручения из круглосуточных магазинов и получая чаевые за свою милость, и могла получать для ребёнка высокий доход. [PAWN_nameDef] была пробивной и гибкой девочкой и умела ускользнуть даже при облавах.</Kurin_BackstoryChild_21.baseDescription>
+  
+  <Kurin_BackstoryChild_22.title>Куринский юный ремесленник</Kurin_BackstoryChild_22.title>
+  <Kurin_BackstoryChild_22.titleShort>Ремесленник</Kurin_BackstoryChild_22.titleShort>
+  <Kurin_BackstoryChild_22.baseDescription>[PAWN_nameDef] имела превосходные навыки ручной работы. [PAWN_pronoun] любила делать замысловатые поделки и раздавать их друзьям, и её поделки всегда были популярны среди друзей.</Kurin_BackstoryChild_22.baseDescription>
+  
+  <Kurin_BackstoryChild_23.title>Куринский юный садовод</Kurin_BackstoryChild_23.title>
+  <Kurin_BackstoryChild_23.titleShort>Садовод</Kurin_BackstoryChild_23.titleShort>
+  <Kurin_BackstoryChild_23.baseDescription>[PAWN_nameDef] любила ухаживать за растениями. Большую часть свободного времени [PAWN_pronoun] проводила, выращивая овощи на грядке, ухаживая за горшечными растениями и играя в nearby ботаническом саду.</Kurin_BackstoryChild_23.baseDescription>
+  
+  <Kurin_BackstoryChild_24.title>Куринский юный повар</Kurin_BackstoryChild_24.title>
+  <Kurin_BackstoryChild_24.titleShort>Повар</Kurin_BackstoryChild_24.titleShort>
+  <Kurin_BackstoryChild_24.baseDescription>[PAWN_nameDef] получала удовольствие от выпечки хлеба и печенья, украшения тортов. Получая похвалы на уроках домоводства и открыв для себя радость готовки, [PAWN_pronoun] проявила талант и к другой кухне. От простых блюд до изысканной еды — не было такого, чего [PAWN_pronoun] не могла бы приготовить.</Kurin_BackstoryChild_24.baseDescription>
+  
+  <Kurin_BackstoryChild_25.title>Куринский любитель животных</Kurin_BackstoryChild_25.title>
+  <Kurin_BackstoryChild_25.titleShort>Любитель животных</Kurin_BackstoryChild_25.titleShort>
+  <Kurin_BackstoryChild_25.baseDescription>[PAWN_nameDef] очень любила животных. [PAWN_pronoun] хотела завести много животных, но из-за практических проблем могла позволить себе только роботизированных питомцев. Но [PAWN_pronoun] больше нравилось тепло настоящих живых животных, чем роботов, и [PAWN_pronoun] часто ходила играть в зоопарк.</Kurin_BackstoryChild_25.baseDescription>
+  
+  <Kurin_BackstoryChild_26.title>Куринский умный ученик</Kurin_BackstoryChild_26.title>
+  <Kurin_BackstoryChild_26.titleShort>Умный ученик</Kurin_BackstoryChild_26.titleShort>
+  <Kurin_BackstoryChild_26.baseDescription>У [PAWN_nameDef] были оценки лучше, чем у других учеников. Результаты экзаменов всегда были в верхней части списка, и отношения с другими друзьями тоже были хорошими. Но из-за долгого сидения за столом тело [PAWN_pronoun] ослабло, и [PAWN_pronoun] привыкла тихо сидеть в углу во время уроков физкультуры.</Kurin_BackstoryChild_26.baseDescription>
+  
+  <Kurin_BackstoryChild_27.title>Куринский разносторонний ребёнок</Kurin_BackstoryChild_27.title>
+  <Kurin_BackstoryChild_27.titleShort>Разносторонний ребёнок</Kurin_BackstoryChild_27.titleShort>
+  <Kurin_BackstoryChild_27.baseDescription>[PAWN_nameDef] была куринкой, талантливой во многих областях: учёбе, готовке, создании вещей, спорте, но это, наоборот, мешало [PAWN_pronoun] сконцентрироваться на одной области. [PAWN_pronoun] некоторое время блуждала в поисках своего пути.</Kurin_BackstoryChild_27.baseDescription>
+  
+  <Kurin_BackstoryChild_28.title>Куринский книжный червь</Kurin_BackstoryChild_28.title>
+  <Kurin_BackstoryChild_28.titleShort>Книжный червь</Kurin_BackstoryChild_28.titleShort>
+  <Kurin_BackstoryChild_28.baseDescription>Тихий звук переворачивания страниц, запах старой бумаги… [PAWN_nameDef] любила читать книги в своей комнате, полной книг, при включённой настольной лампе. Часто [PAWN_pronoun] проводила день, читая старинные книги в старой библиотеке.</Kurin_BackstoryChild_28.baseDescription>
+  
+  <Kurin_BackstoryChild_29.title>Первая куринка</Kurin_BackstoryChild_29.title>
+  <Kurin_BackstoryChild_29.titleShort>Первая куринка</Kurin_BackstoryChild_29.titleShort>
+  <Kurin_BackstoryChild_29.baseDescription>[PAWN_nameDef] — одна из первых куринок. Когда куринки прибыли на новую планету, [PAWN_pronoun] не смогла проснуться из-за неисправности капсулы и проспала сотни лет. Недавно куринки наконец усовершенствовали технологию капсул, и [PAWN_pronoun] наконец открыла глаза.</Kurin_BackstoryChild_29.baseDescription>
+  
+  <Kurin_BackstoryChild_30.title>Куринская студентка по обмену</Kurin_BackstoryChild_30.title>
+  <Kurin_BackstoryChild_30.titleShort>Студентка по обмену</Kurin_BackstoryChild_30.titleShort>
+  <Kurin_BackstoryChild_30.baseDescription>[PAWN_nameDef] была куринкой, которая в детстве уехала от родителей учиться в страну людей. К счастью, школа, в которую [PAWN_pronoun] ходила, была местом с хорошими детьми и учителями, и, к счастью, [PAWN_pronoun] смогла вырасти жизнерадостной и доброй лисой.</Kurin_BackstoryChild_30.baseDescription>
+  
+  <Kurin_BackstoryChild_31.title>Куринский юный музыкант</Kurin_BackstoryChild_31.title>
+  <Kurin_BackstoryChild_31.titleShort>Музыкант</Kurin_BackstoryChild_31.titleShort>
+  <Kurin_BackstoryChild_31.baseDescription>[PAWN_nameDef] была юной лисой, которая очень любила музыку и очень любила петь песни с друзьями. [PAWN_pronoun] сама пробовала сочинять песни или музыку и, испытав хорошую реакцию других куринок, постепенно погружалась в радость музыки. Но, видимо, родители были не в восторге.</Kurin_BackstoryChild_31.baseDescription>
+  
+  <Kurin_BackstoryChild_32.title>Куринский ребёнок-актёр</Kurin_BackstoryChild_32.title>
+  <Kurin_BackstoryChild_32.titleShort>Актёр</Kurin_BackstoryChild_32.titleShort>
+  <Kurin_BackstoryChild_32.baseDescription>Несмотря на юный возраст, [PAWN_nameDef] была известна превосходными актёрскими способностями и богатой эмоциональной выразительностью. [PAWN_pronoun] хотела сниматься в качестве ребёнка-актёра во многих фильмах и драмах, и [PAWN_pronoun] играла в различных жанрах и могла изучать различные навыки.</Kurin_BackstoryChild_32.baseDescription>
+  
+  <Kurin_BackstoryChild_33.title>Куринский активный ученик</Kurin_BackstoryChild_33.title>
+  <Kurin_BackstoryChild_33.titleShort>Активный ученик</Kurin_BackstoryChild_33.titleShort>
+  <Kurin_BackstoryChild_33.baseDescription>[PAWN_nameDef] была очень популярна среди друзей благодаря хорошим社交ным навыкам, милой внешности и яркому, весёлому характеру. [PAWN_pronoun] даже стала знаменитостью, снимаясь в телепередачах, но не могла, как раньше, играть с друзьями или свободно жить и, наоборот, погрузилась в одиночество. Вскоре [PAWN_pronoun] решила уйти и выбрала возвращение к обычной жизни.</Kurin_BackstoryChild_33.baseDescription>
+  
+  <Kurin_BackstoryChild_34.title>Куринский ученик боевых искусств</Kurin_BackstoryChild_34.title>
+  <Kurin_BackstoryChild_34.titleShort>Ученик</Kurin_BackstoryChild_34.titleShort>
+  <Kurin_BackstoryChild_34.baseDescription>У [PAWN_nameDef] было слабое здоровье, и тело [PAWN_pronoun] было much слабее, чем у сверстников. Чтобы преодолеть это, [PAWN_pronoun] начала заниматься различными видами спорта и даже боевыми искусствами. Усердно тренировавшаяся [PAWN_pronoun] в итоге стала настолько skilled, что выиграла региональные соревнования.</Kurin_BackstoryChild_34.baseDescription>
+  
+  <Kurin_BackstoryChild_35.title>Куринский скаут</Kurin_BackstoryChild_35.title>
+  <Kurin_BackstoryChild_35.titleShort>Скаут</Kurin_BackstoryChild_35.titleShort>
+  <Kurin_BackstoryChild_35.baseDescription>Юная [PAWN_nameDef] очень хотела вступить в детскую организацию скаутов. Несмотря на бедственное положение, родители подарили [PAWN_pronoun] форму, и впоследствии [PAWN_pronoun] вступила в скауты, где изучала различные навыки, такие как кемпинг, выращивание растений и выживание, и проводила счастливые дни.</Kurin_BackstoryChild_35.baseDescription>
+  
+  <Kurin_BackstoryChild_36.title>Куринский член спортивного клуба</Kurin_BackstoryChild_36.title>
+  <Kurin_BackstoryChild_36.titleShort>Член спортивного клуба</Kurin_BackstoryChild_36.titleShort>
+  <Kurin_BackstoryChild_36.baseDescription>[PAWN_nameDef], в отличие от большинства куринок, любила двигаться и вступила в школьный спортивный клуб, где занималась различными видами спорта. Уроки физкультуры были её личным представлением, и [PAWN_pronoun] была очень заботливой, помогая даже издевающимся ученикам, но, к сожалению, academic успехи были не очень хорошими.</Kurin_BackstoryChild_36.baseDescription>
+
+
+  <!-- ADULT BACKSTORIES -->
+
+  <Kurin_BackstoryAdult_01.title>Куринский газетный репортёр</Kurin_BackstoryAdult_01.title>
+  <Kurin_BackstoryAdult_01.titleShort>Репортёр</Kurin_BackstoryAdult_01.titleShort>
+  <Kurin_BackstoryAdult_01.baseDescription>[PAWN_nameDef] пишет статьи для газеты, сообщающей куринкам различные новости. О положении в стране, культуре, дипломатии. Неожиданно, но политический раздел не был весомым. Ведь все верят, что Куринская республика чиста и работает справедливо.</Kurin_BackstoryAdult_01.baseDescription>
+
+  <Kurin_BackstoryAdult_02.title>Куринская наёмная горничная</Kurin_BackstoryAdult_02.title>
+  <Kurin_BackstoryAdult_02.titleShort>Горничная</Kurin_BackstoryAdult_02.titleShort>
+  <Kurin_BackstoryAdult_02.baseDescription>[PAWN_nameDef] — горничная, нанятая в особняк богача. [PAWN_pronoun] выполняла работу по дому, от уборки особняка и приготовления еды до покупки необходимых для особняка вещей или управления счетами, также выполняя роль дворецкого, и могла заслужить глубокое доверие хозяина.</Kurin_BackstoryAdult_02.baseDescription>
+
+  <Kurin_BackstoryAdult_03.title>Куринский работник ресторана</Kurin_BackstoryAdult_03.title>
+  <Kurin_BackstoryAdult_03.titleShort>Работник</Kurin_BackstoryAdult_03.titleShort>
+  <Kurin_BackstoryAdult_03.baseDescription>[PAWN_nameDef] работала в ресторане, принимая заказы гостей, разнося еду и убирая со столов. Иногда в еде находили шерсть, но многие гости любили [PAWN_pronoun], и [PAWN_pronoun] могла научиться блестящим кулинарным навыкам и владению ножом шеф-повара.</Kurin_BackstoryAdult_03.baseDescription>
+
+  <Kurin_BackstoryAdult_04.title>Куринская дичь</Kurin_BackstoryAdult_04.title>
+  <Kurin_BackstoryAdult_04.titleShort>Дичь</Kurin_BackstoryAdult_04.titleShort>
+  <Kurin_BackstoryAdult_04.baseDescription>Охота на лис — это роскошный спорт человеческой знати, существующий с давних времён. Он был запрещён из-за жестокости, но вновь обрёл популярность с появлением куринок. [PAWN_nameDef] играла роль дичи, надевала меховой костюм и убегала от охотников. Использовались легко ломающиеся солевые пули, но всё тело [PAWN_pronoun] было в синяках.</Kurin_BackstoryAdult_04.baseDescription>
+
+  <Kurin_BackstoryAdult_05.title>Куринский террорист</Kurin_BackstoryAdult_05.title>
+  <Kurin_BackstoryAdult_05.titleShort>Террорист</Kurin_BackstoryAdult_05.titleShort>
+  <Kurin_BackstoryAdult_05.baseDescription>[PAWN_nameDef] известна в международном сообществе как террористка. Но на самом деле [PAWN_pronoun] была героиней, убившей офицера диктаторского государства, который безжалостно убивал куринок ради забавы. Никто не признавал [PAWN_pronoun], и [PAWN_pronoun] всегда приходилось бегать, но [PAWN_pronoun] считает, что поступила правильно.</Kurin_BackstoryAdult_05.baseDescription>
+
+  <Kurin_BackstoryAdult_06.title>Куринская выжившая после бешенства</Kurin_BackstoryAdult_06.title>
+  <Kurin_BackstoryAdult_06.titleShort>Выжившая</Kurin_BackstoryAdult_06.titleShort>
+  <Kurin_BackstoryAdult_06.baseDescription>В городе, превратившемся в хаос, где куринки, заражённые бешенством, вызывали психические расстройства и кусали друг друга, распространяя заражение, [PAWN_nameDef] опустила ставни круглосуточного магазина и пряталась, сжавшись. Снаружи несколько дней и ночей слышались крики и звуки куринок, разрывающих друг друга, и после того, как всё утихло, [PAWN_nameDef] была спасена, но эти ужасные воспоминания остались надолго.</Kurin_BackstoryAdult_06.baseDescription>
+
+  <Kurin_BackstoryAdult_07.title>Куринский работник массажного салона</Kurin_BackstoryAdult_07.title>
+  <Kurin_BackstoryAdult_07.titleShort>Работник</Kurin_BackstoryAdult_07.titleShort>
+  <Kurin_BackstoryAdult_07.baseDescription>[PAWN_nameDef] работает в массажном салоне в одном из районов развлечений в центре города. Когда приходили куринки, [PAWN_pronoun] обычно наносила ароматические масла и делала массаж, снимая усталость, но в задней части заведения, конечно же, было prepared пространство для куринок, желавших чего-то большего. [PAWN_pronoun] прикоснулась ко многим куринкам, и чаевые очень помогали в жизни.</Kurin_BackstoryAdult_07.baseDescription>
+
+  <Kurin_BackstoryAdult_08.title>Куринская лиса природы</Kurin_BackstoryAdult_08.title>
+  <Kurin_BackstoryAdult_08.titleShort>Природная лиса</Kurin_BackstoryAdult_08.titleShort>
+  <Kurin_BackstoryAdult_08.baseDescription>[PAWN_nameDef] — лиса, которой надоела утомительная городская жизнь, и она ушла в горы. [PAWN_pronoun] построила старомодный дом, в который с трудом провели воду и электричество, и жила, вкладывая силы в выращивание растений и мелкие дела, пачкая руки землёй и водой.</Kurin_BackstoryAdult_08.baseDescription>
+  
+  <Kurin_BackstoryAdult_09.title>Куринская гражданка</Kurin_BackstoryAdult_09.title>
+  <Kurin_BackstoryAdult_09.titleShort>Гражданка</Kurin_BackstoryAdult_09.titleShort>
+  <Kurin_BackstoryAdult_09.baseDescription>[PAWN_nameDef] — обычная гражданка. Гражданки, усердно живущие день за днём, выполняя различную работу, являются основой и фундаментом куринского общества. Они имеют куринскую идентичность и преодолеют любые трудности и невзгоды.</Kurin_BackstoryAdult_09.baseDescription>
+  
+  <Kurin_BackstoryAdult_10.title>Куринский банковский служащий</Kurin_BackstoryAdult_10.title>
+  <Kurin_BackstoryAdult_10.titleShort>Служащий</Kurin_BackstoryAdult_10.titleShort>
+  <Kurin_BackstoryAdult_10.baseDescription>[PAWN_nameDef] была умной лисой, работавшей в банке и выполнявшей различные duties. Принимала вклады куринок, консультировала по кредитам. [PAWN_nameDef] любила свою работу и была довольна трудовой жизнью благодаря доброжелательным коллегам.</Kurin_BackstoryAdult_10.baseDescription>
+  
+  <Kurin_BackstoryAdult_11.title>Куринский сторож виноградника</Kurin_BackstoryAdult_11.title>
+  <Kurin_BackstoryAdult_11.titleShort>Сторож</Kurin_BackstoryAdult_11.titleShort>
+  <Kurin_BackstoryAdult_11.baseDescription>[PAWN_nameDef] — сторож в соломенной шляпе, сидящий в деревянной сторожке и охраняющий виноградник. Когда милые юные куринки приходили воровать выращенный с любовью виноград, [PAWN_pronoun] пронзительно кричала и прогоняла их. Когда виноград был незрелым и кислым, [PAWN_pronoun] смеялась, видя, как юные лисы хмурятся.</Kurin_BackstoryAdult_11.baseDescription>
+  
+  <Kurin_BackstoryAdult_12.title>Куринский пилот лёгкого самолёта</Kurin_BackstoryAdult_12.title>
+  <Kurin_BackstoryAdult_12.titleShort>Пилот</Kurin_BackstoryAdult_12.titleShort>
+  <Kurin_BackstoryAdult_12.baseDescription>[PAWN_nameDef] — пилот, управляющий небольшим самолётом. Однажды [PAWN_pronoun] попала в большую беду, помогая синему ёжику, который пытался перейти границу, украв семь драгоценностей, и больше [PAWN_pronoun] такого не делает.</Kurin_BackstoryAdult_12.baseDescription>
+  
+  <Kurin_BackstoryAdult_13.title>Куринский полицейский</Kurin_BackstoryAdult_13.title>
+  <Kurin_BackstoryAdult_13.titleShort>Полицейский</Kurin_BackstoryAdult_13.titleShort>
+  <Kurin_BackstoryAdult_13.baseDescription>[PAWN_nameDef] — отличный полицейский, окончивший полицейскую академию с высшими оценками и получивший назначение. Изначально работа полицейского не очень подходила [PAWN_pronoun] по характеру, но благодаря упорным усилиям [PAWN_pronoun] достигла желаемой мечты и смогла отряхнуться от насмешек окружения.</Kurin_BackstoryAdult_13.baseDescription>
+  
+  <Kurin_BackstoryAdult_14.title>Куринский служащий оружейного завода</Kurin_BackstoryAdult_14.title>
+  <Kurin_BackstoryAdult_14.titleShort>Служащий</Kurin_BackstoryAdult_14.titleShort>
+  <Kurin_BackstoryAdult_14.baseDescription>[PAWN_nameDef], отвечавшая за учёт поступления и выдачи различных видов оружия, производимых на оружейном заводе "Красной лисы", была поглощена бумагами и плохо разбиралась в том, как actually изготавливать оружие.</Kurin_BackstoryAdult_14.baseDescription>
+  
+  <Kurin_BackstoryAdult_15.title>Куринский миссионер</Kurin_BackstoryAdult_15.title>
+  <Kurin_BackstoryAdult_15.titleShort>Миссионер</Kurin_BackstoryAdult_15.titleShort>
+  <Kurin_BackstoryAdult_15.baseDescription>[PAWN_nameDef] жила, занимаясь волонтёрской деятельностью для несчастных куринок согласно своим религиозным убеждениям. [PAWN_pronoun] участвовала в различных мероприятиях, жертвовала, и хотя жизнь [PAWN_pronoun] была бедной, её сердце было богаче, чем у кого бы то ни было.</Kurin_BackstoryAdult_15.baseDescription>
+  
+  <Kurin_BackstoryAdult_16.title>Куринский сотрудник торговой компании</Kurin_BackstoryAdult_16.title>
+  <Kurin_BackstoryAdult_16.titleShort>Сотрудник</Kurin_BackstoryAdult_16.titleShort>
+  <Kurin_BackstoryAdult_16.baseDescription>[PAWN_nameDef] — сотрудник торговой компании, заключающий контракты на продажу различных куринских товаров в другие страны и занимающийся продажами. Куринки известны в других странах как ласковые, но пугающие и хитрые торговки, и [PAWN_pronoun] была именно такой куринкой, но в последнее время отношения с другими странами охладели, и продажи стали трудными.</Kurin_BackstoryAdult_16.baseDescription>
+  
+  <Kurin_BackstoryAdult_17.title>Куринский сигнальщик на ВПП</Kurin_BackstoryAdult_17.title>
+  <Kurin_BackstoryAdult_17.titleShort>Сигнальщик</Kurin_BackstoryAdult_17.titleShort>
+  <Kurin_BackstoryAdult_17.baseDescription>[PAWN_nameDef] — лиса, подающая сигналы с жезлом на взлётной полосе частного инвестиционного аэропорта куринок. Хотя [PAWN_pronoun] надевала несколько слоёв берушей, грохот самолётов было слишком трудно выносить для [PAWN_pronoun] с её чувствительными ушами, и три хвоста болтались и болели от сильного ветра, но [PAWN_pronoun] освоила свои методы, например, связывание хвостов, и справлялась well.</Kurin_BackstoryAdult_17.baseDescription>
+  
+  <Kurin_BackstoryAdult_18.title>Куринский торговец каравана</Kurin_BackstoryAdult_18.title>
+  <Kurin_BackstoryAdult_18.titleShort>Торговец</Kurin_BackstoryAdult_18.titleShort>
+  <Kurin_BackstoryAdult_18.baseDescription>[PAWN_nameDef] изначально была обычным коммивояжёром, но сейчас, после аварийной посадки на окраинной системе, [PAWN_pronoun] возглавляет торговый караван и торгует между различными поселениями. Обычно [PAWN_pronoun] посещала only поселения куринских сил, но иногда заходила в поселения других фракций, чтобы покупать и продавать необходимые товары.</Kurin_BackstoryAdult_18.baseDescription>
+  
+  <Kurin_BackstoryAdult_19.title>Куринский работник круглосуточного магазина</Kurin_BackstoryAdult_19.title>
+  <Kurin_BackstoryAdult_19.titleShort>Работник</Kurin_BackstoryAdult_19.titleShort>
+  <Kurin_BackstoryAdult_19.baseDescription>[PAWN_nameDef] — куринка, работающая в ночную смену в обычном круглосуточном магазине в жилом районе. Ночью клиентов было мало, и в свободное время [PAWN_pronoun] училась. Но [PAWN_pronoun] не neglected свою работу. [PAWN_pronoun] взращивала свои мечты о карьере архитектора и знания, накапливаемые день за днём.</Kurin_BackstoryAdult_19.baseDescription>
+  
+  <Kurin_BackstoryAdult_20.title>Куринский зазывала в туристическом месте</Kurin_BackstoryAdult_20.title>
+  <Kurin_BackstoryAdult_20.titleShort>Зазывала</Kurin_BackstoryAdult_20.titleShort>
+  <Kurin_BackstoryAdult_20.baseDescription>[PAWN_nameDef] зарабатывала на жизнь, торгуя с куринками или людьми, приезжавшими отдохнуть на побережье, и в курортный сезон доход был quite солидным. Заработок включал в себя бросание мячиков в мишени, лопание воздушных шаров дротиками, а также продажу дешёвых сувениров по завышенным ценам.</Kurin_BackstoryAdult_20.baseDescription>
+  
+  <Kurin_BackstoryAdult_21.title>Куринский владелец магазина на традиционном рынке</Kurin_BackstoryAdult_21.title>
+  <Kurin_BackstoryAdult_21.titleShort>Владелец магазина</Kurin_BackstoryAdult_21.titleShort>
+  <Kurin_BackstoryAdult_21.baseDescription>[PAWN_nameDef] продавала еду по низким ценам на старом рынке куринок. Юбу, различные закуски и даже готовые блюда. Хотя в последнее время куринки чаще ходят в большие универмаги, но, видимо, благодаря кулинарным навыкам [PAWN_pronoun] и слухам о вкусной еде, клиенты всё ещё заходили.</Kurin_BackstoryAdult_21.baseDescription>
+  
+  <Kurin_BackstoryAdult_22.title>Куринский бывший шеф-повар</Kurin_BackstoryAdult_22.title>
+  <Kurin_BackstoryAdult_22.titleShort>Шеф-повар</Kurin_BackstoryAdult_22.titleShort>
+  <Kurin_BackstoryAdult_22.baseDescription>[PAWN_nameDef] была известным поваром в отеле в стране людей. Но после жалоб гостей на шерсть в еде из роскошного отеля [PAWN_pronoun] была уволена. После возвращения в Куринскую республику [PAWN_pronoun] работала в небольшом местном ресторане европейской кухни, и хотя зарплата была меньше, чем раньше, [PAWN_pronoun] могла спокойно работать.</Kurin_BackstoryAdult_22.baseDescription>
+  
+  <Kurin_BackstoryAdult_23.title>Куринский смотритель за животными</Kurin_BackstoryAdult_23.title>
+  <Kurin_BackstoryAdult_23.titleShort>Смотритель</Kurin_BackstoryAdult_23.titleShort>
+  <Kurin_BackstoryAdult_23.baseDescription>[PAWN_nameDef] — популярный смотритель за животными в зоопарке. В основном [PAWN_pronoun] ухаживала за детёнышами животных или дрессировала животных для выступлений на сцене. Иногда [PAWN_pronoun] проводила экскурсии для посетителей, и [PAWN_pronoun] всегда была популярна.</Kurin_BackstoryAdult_23.baseDescription>
+  
+  <Kurin_BackstoryAdult_24.title>Куринский фермер на гидропонике</Kurin_BackstoryAdult_24.title>
+  <Kurin_BackstoryAdult_24.titleShort>Фермер</Kurin_BackstoryAdult_24.titleShort>
+  <Kurin_BackstoryAdult_24.baseDescription>[PAWN_nameDef] выращивала различные культуры на гидропонных установках в идеально стерилизованных теплицах и суккулентных комнатах на окраине города, а также исследовала новые семена. Иногда [PAWN_pronoun] готовила из выращенных самостоятельно сельскохозяйственных продуктов в качестве хобби.</Kurin_BackstoryAdult_24.baseDescription>
+  
+  <Kurin_BackstoryAdult_25.title>Куринский гончар</Kurin_BackstoryAdult_25.title>
+  <Kurin_BackstoryAdult_25.titleShort>Гончар</Kurin_BackstoryAdult_25.titleShort>
+  <Kurin_BackstoryAdult_25.baseDescription>[PAWN_nameDef] была одной из немногих оставшихся в Куринской республике гончаров после развития технологии 3D-печати. [PAWN_pronoun] создавала произведения,追求 красоту и ценность, а не практичность, и её работы продавались по довольно высоким ценам.</Kurin_BackstoryAdult_25.baseDescription>
+  
+  <Kurin_BackstoryAdult_26.title>Куринский изготовитель шляп</Kurin_BackstoryAdult_26.title>
+  <Kurin_BackstoryAdult_26.titleShort>Изготовитель шляп</Kurin_BackstoryAdult_26.titleShort>
+  <Kurin_BackstoryAdult_26.baseDescription>[PAWN_nameDef] изготавливала различные цилиндры. [PAWN_pronoun] научилась делать шляпы традиционным способом в далёкой стране людей с иной культурой, и её продукция стала очень популярна и среди лисиц, но из-за отравления ртутью, одним из материалов для цилиндров, [PAWN_pronoun] получила мучительную болезнь — тремор рук, тёмные круги под глазами и тревожное выражение лица.</Kurin_BackstoryAdult_26.baseDescription>
+  
+  <Kurin_BackstoryAdult_27.title>Куринский часовщик</Kurin_BackstoryAdult_27.title>
+  <Kurin_BackstoryAdult_27.titleShort>Часовщик</Kurin_BackstoryAdult_27.titleShort>
+  <Kurin_BackstoryAdult_27.baseDescription>[PAWN_nameDef] училась делать часы всю свою жизнь в стране людей. [PAWN_pronoun] кропотливо и искусно вытачивала каждую шестерёнку часов, и благодаря этому старанию и художественному внешнему виду [PAWN_pronoun] стала очень популярна среди высокопоставленных и богатых куринок.</Kurin_BackstoryAdult_27.baseDescription>
+  
+  <Kurin_BackstoryAdult_28.title>Куринский шеф-повар рыбных блюд</Kurin_BackstoryAdult_28.title>
+  <Kurin_BackstoryAdult_28.titleShort>Шеф-повар</Kurin_BackstoryAdult_28.titleShort>
+  <Kurin_BackstoryAdult_28.baseDescription>[PAWN_nameDef] лучше всех знает, как вкусно приготовить рыбу. [PAWN_pronoun] чисто разделывала рыбу острым ножом, смешивала с различными сладкими и кислыми соусами и запекала в духовке или на сковороде, и её приготовленная рыба была так популярна, что даже люди приезжали издалека, но после того, как люди закрыли границы, только куринки могли её есть.</Kurin_BackstoryAdult_28.baseDescription>
+  
+  <Kurin_BackstoryAdult_29.title>Куринский дизайнер одежды</Kurin_BackstoryAdult_29.title>
+  <Kurin_BackstoryAdult_29.titleShort>Дизайнер</Kurin_BackstoryAdult_29.titleShort>
+  <Kurin_BackstoryAdult_29.baseDescription>[PAWN_nameDef] — куринка, недавно начавшая карьеру дизайнера одежды после окончания школы. [PAWN_pronoun] хотела поскорее создавать различные красивые наряды, но стена реальности была высока, и сейчас [PAWN_pronoun] работает стажёром в одной студии, но мечтает иметь собственную студию и создавать одежду под своим именем.</Kurin_BackstoryAdult_29.baseDescription>
+  
+  <Kurin_BackstoryAdult_30.title>Куринская портниха</Kurin_BackstoryAdult_30.title>
+  <Kurin_BackstoryAdult_30.titleShort>Портниха</Kurin_BackstoryAdult_30.titleShort>
+  <Kurin_BackstoryAdult_30.baseDescription>В столице, старейшем городе куринок, есть несколько переулков, где собраны старые и маленькие магазинчики. [PAWN_nameDef] управляла небольшим магазином тканей. [PAWN_pronoun] продавала покупателям ткани и одежду, а также с помощью швейной машины выполняла различные починки и создавала простую одежду или украшения.</Kurin_BackstoryAdult_30.baseDescription>
+  
+  <Kurin_BackstoryAdult_31.title>Куринский рабочий сборочной линии</Kurin_BackstoryAdult_31.title>
+  <Kurin_BackstoryAdult_31.titleShort>Рабочий</Kurin_BackstoryAdult_31.titleShort>
+  <Kurin_BackstoryAdult_31.baseDescription>На бесконечно работающей сборочной линии завода [PAWN_nameDef] занималась сборкой электронных компонентов и отбраковкой defective продукции. Многие куринки работали на линии, и хотя зарплата была не очень большой, [PAWN_pronoun] усердно работала, мечтая о лучшей жизни.</Kurin_BackstoryAdult_31.baseDescription>
+  
+  <Kurin_BackstoryAdult_32.title>Куринский лесоруб</Kurin_BackstoryAdult_32.title>
+  <Kurin_BackstoryAdult_32.titleShort>Лесоруб</Kurin_BackstoryAdult_32.titleShort>
+  <Kurin_BackstoryAdult_32.baseDescription>[PAWN_nameDef] работала на заготовке древесины в неосвоенных лесах. Работа была опасной, и, как и большинство куринок, [PAWN_pronoun] не любила физический труд, но [PAWN_pronoun] думала, что работать с прямыми куринками и здорово потеть тоже неплохо.</Kurin_BackstoryAdult_32.baseDescription>
+  
+  <Kurin_BackstoryAdult_33.title>Куринский бедный исследователь роботов</Kurin_BackstoryAdult_33.title>
+  <Kurin_BackstoryAdult_33.titleShort>Исследователь роботов</Kurin_BackstoryAdult_33.titleShort>
+  <Kurin_BackstoryAdult_33.baseDescription>[PAWN_nameDef] занималась исследованием различных видов механоидов. Изучая списанных из-за сбоев механоидов, [PAWN_pronoun] обнаружила несколько дефектов и приложила много усилий для их решения, но без большого успеха, и, оказавшись на грани прекращения финансирования от Куринской республики, [PAWN_pronoun] жила в нищете в маленькой каморке.</Kurin_BackstoryAdult_33.baseDescription>
+  
+  <Kurin_BackstoryAdult_34.title>Куринский космонавт</Kurin_BackstoryAdult_34.title>
+  <Kurin_BackstoryAdult_34.titleShort>Космонавт</Kurin_BackstoryAdult_34.titleShort>
+  <Kurin_BackstoryAdult_34.baseDescription>[PAWN_nameDef] — куринка с опытом нескольких космических полётов, выполнившая миссии на всех планетах внутри звёздной системы. Хотя пока никто не выходил в дальний космос, а лишь запускали зонды, [PAWN_pronoun] думала, что если кто-то и полетит на пилотируемом корабле в дальний космос, то это будет она.</Kurin_BackstoryAdult_34.baseDescription>
+  
+  <Kurin_BackstoryAdult_35.title>Куринский помощник в ремонтном ангаре</Kurin_BackstoryAdult_35.title>
+  <Kurin_BackstoryAdult_35.titleShort>Помощник</Kurin_BackstoryAdult_35.titleShort>
+  <Kurin_BackstoryAdult_35.baseDescription>[PAWN_nameDef], приехавшая в страну людей, чтобы учиться разным вещам, устроилась механиком в гражданскую авиакомпанию, но не получила важных tasks и выполняла лишь различные подсобные работы в качестве помощника. Поскольку [PAWN_pronoun] была неразговорчивой лисой, [PAWN_pronoun] старалась добросовестно выполнять порученную работу.</Kurin_BackstoryAdult_35.baseDescription>
+  
+  <Kurin_BackstoryAdult_36.title>Куринский электрик</Kurin_BackstoryAdult_36.title>
+  <Kurin_BackstoryAdult_36.titleShort>Электрик</Kurin_BackstoryAdult_36.titleShort>
+  <Kurin_BackstoryAdult_36.baseDescription>[PAWN_nameDef] работала на высоких опорах, заменяя электрические провода и компоненты. Благодаря тому, что [PAWN_pronoun] могла держать равновесие тремя хвостами даже без защитного снаряжения, и хорошим навыкам рук, [PAWN_pronoun] быстро выполняла работу, и доход был хорошим, и [PAWN_pronoun] была полна мечтами о счастливой жизни с мужем в хорошем доме в пригороде.</Kurin_BackstoryAdult_36.baseDescription>
+  
+  <Kurin_BackstoryAdult_37.title>Куринский сантехник</Kurin_BackstoryAdult_37.title>
+  <Kurin_BackstoryAdult_37.titleShort>Сантехник</Kurin_BackstoryAdult_37.titleShort>
+  <Kurin_BackstoryAdult_37.baseDescription>[PAWN_nameDef], которая соединяла трубы на стройплощадках и собирала воздуховоды, недавно была уволена с работы из-за ухудшения экономической ситуации, и её милое лицо стало грустным. Поскольку [PAWN_pronoun] плохо училась, [PAWN_pronoun] не очень понимала, но слышала новости о тяжёлом положении Куринской республики. И другие окрестные лисы тоже.</Kurin_BackstoryAdult_37.baseDescription>
+  
+  <Kurin_BackstoryAdult_38.title>Куринский инженер тяжёлой промышленности</Kurin_BackstoryAdult_38.title>
+  <Kurin_BackstoryAdult_38.titleShort>Инженер</Kurin_BackstoryAdult_38.titleShort>
+  <Kurin_BackstoryAdult_38.baseDescription>[PAWN_nameDef] — инженер, работающий на крупнейшей судостроительной верфи Куринской республики, производящей круизные лайнеры, контейнеровозы, эсминцы и даже авианосцы. "Серебряная лиса тяжёлой промышленности" была гигантской компанией, поставлявшей более 80% всех кораблей планеты, и благодаря этому инженер [PAWN_pronoun] проводила свои дни, заваленная обработкой документов и напряжённым управлением процессами.</Kurin_BackstoryAdult_38.baseDescription>
+  
+  <Kurin_BackstoryAdult_39.title>Куринский официант ресторана</Kurin_BackstoryAdult_39.title>
+  <Kurin_BackstoryAdult_39.titleShort>Официант</Kurin_BackstoryAdult_39.titleShort>
+  <Kurin_BackstoryAdult_39.baseDescription>[PAWN_nameDef] работала в высококлассном ресторане, принимая заказы, когда входили гости, и принимая шляпы и пальто, чтобы повесить их в сторону. Сейчас [PAWN_pronoun] only обслуживает гостей, но на самом деле хотела бы работать на кухне. Ведь [PAWN_pronoun] немного умеет готовить.</Kurin_BackstoryAdult_39.baseDescription>
+  
+  <Kurin_BackstoryAdult_40.title>Куринская медсестра</Kurin_BackstoryAdult_40.title>
+  <Kurin_BackstoryAdult_40.titleShort>Медсестра</Kurin_BackstoryAdult_40.titleShort>
+  <Kurin_BackstoryAdult_40.baseDescription>[PAWN_nameDef] — опытная медсестра, прошедшая formal обучение. Даже когда тяжелораненую куринку доставляли в отделение неотложной помощи, [PAWN_pronoun] не менялась в лице, останавливала кровотечение, оказывала первую помощь, звала врача или ассистировала врачу во время лечения.</Kurin_BackstoryAdult_40.baseDescription>
+  
+  <Kurin_BackstoryAdult_41.title>Куринский астроном</Kurin_BackstoryAdult_41.title>
+  <Kurin_BackstoryAdult_41.titleShort>Астроном</Kurin_BackstoryAdult_41.titleShort>
+  <Kurin_BackstoryAdult_41.baseDescription>[PAWN_nameDef] занималась анализом данных, отправленных зондами для исследования дальнего космоса, созданием трёхмерных карт космоса и расчётом межзвёздных траекторий полёта зондов. Эта спокойная жизнь в исследовательской лаборатории сделала [PAWN_pronoun] более слабой, чем другие куринки.</Kurin_BackstoryAdult_41.baseDescription>
+  
+  <Kurin_BackstoryAdult_42.title>Куринский биотехнолог</Kurin_BackstoryAdult_42.title>
+  <Kurin_BackstoryAdult_42.titleShort>Биотехнолог</Kurin_BackstoryAdult_42.titleShort>
+  <Kurin_BackstoryAdult_42.baseDescription>[PAWN_nameDef] была биотехнологом, изучавшим генную инженерию. Исследуя гены куринок, [PAWN_pronoun] искала новые методы лечения болезней. Изучая гены, [PAWN_pronoun] обнаружила, что куринки имеют хромосомную структуру, которая не могла возникнуть без искусственного вмешательства, но решила сохранить это в секрете.</Kurin_BackstoryAdult_42.baseDescription>
+  
+  <Kurin_BackstoryAdult_43.title>Куринский инженер по ИИ</Kurin_BackstoryAdult_43.title>
+  <Kurin_BackstoryAdult_43.titleShort>Инженер по ИИ</Kurin_BackstoryAdult_43.titleShort>
+  <Kurin_BackstoryAdult_43.baseDescription>[PAWN_nameDef] хорошо знала об опасностях механоидов и старалась разработать нового гуманоидного робота с искусственным интеллектом. Среди повторяющихся неудач [PAWN_pronoun] вспоминала людей, погибших от рук механоидов, и снова садилась за компьютер, продолжая исследования.</Kurin_BackstoryAdult_43.baseDescription>
+  
+  <Kurin_BackstoryAdult_44.title>Куринский геолог</Kurin_BackstoryAdult_44.title>
+  <Kurin_BackstoryAdult_44.titleShort>Геолог</Kurin_BackstoryAdult_44.titleShort>
+  <Kurin_BackstoryAdult_44.baseDescription>[PAWN_nameDef] — геолог, исследующий огромные разломы, вулканы и земли в других странах. [PAWN_pronoun] бурила землю дрелью и киркой, обнюхивала землю и воздух, принюхиваясь, и прилагала усилия в геологических исследованиях.</Kurin_BackstoryAdult_44.baseDescription>
+  
+  <Kurin_BackstoryAdult_45.title>Куринский учитель старшей школы</Kurin_BackstoryAdult_45.title>
+  <Kurin_BackstoryAdult_45.titleShort>Учитель</Kurin_BackstoryAdult_45.titleShort>
+  <Kurin_BackstoryAdult_45.baseDescription>[PAWN_nameDef] была учительницей, преподающей математику в старшей школе, а также классным руководителем. [PAWN_pronoun] ловила учеников, сбегающих с вечерних занятий, и провела беспокойную жизнь, руководя многими куринками до выпуска.</Kurin_BackstoryAdult_45.baseDescription>
+  
+  <Kurin_BackstoryAdult_46.title>Куринский хирург</Kurin_BackstoryAdult_46.title>
+  <Kurin_BackstoryAdult_46.titleShort>Хирург</Kurin_BackstoryAdult_46.titleShort>
+  <Kurin_BackstoryAdult_46.baseDescription>[PAWN_nameDef] — хирург, работающий в общей больнице провинциального города. В городе near границы изначально было не так много пациентов, но в последнее время участились случаи, когда куринки, избитые людьми, приходили за помощью, и [PAWN_pronoun] была занята.</Kurin_BackstoryAdult_46.baseDescription>
+  
+  <Kurin_BackstoryAdult_47.title>Куринский госслужащий министерства здравоохранения</Kurin_BackstoryAdult_47.title>
+  <Kurin_BackstoryAdult_47.titleShort>Госслужащий</Kurin_BackstoryAdult_47.titleShort>
+  <Kurin_BackstoryAdult_47.baseDescription>[PAWN_nameDef], госслужащая куринского министерства здравоохранения, могла бы стать врачом, но, желая улучшить медицинские условия для куринок, отказалась от открытия частной клиники и выбрала путь госслужащей.</Kurin_BackstoryAdult_47.baseDescription>
+  
+  <Kurin_BackstoryAdult_48.title>Куринский айдол</Kurin_BackstoryAdult_48.title>
+  <Kurin_BackstoryAdult_48.titleShort>Айдол</Kurin_BackstoryAdult_48.titleShort>
+  <Kurin_BackstoryAdult_48.baseDescription>[PAWN_nameDef] была восходящей куринской айдол. Обладая прекрасными танцевальными способностями, выдающимися вокальными данными и красивой внешностью, популярность [PAWN_pronoun] росла с каждым днём, и [PAWN_pronoun] снималась во многих передачах.</Kurin_BackstoryAdult_48.baseDescription>
+  
+  <Kurin_BackstoryAdult_49.title>Куринская восходящая певица</Kurin_BackstoryAdult_49.title>
+  <Kurin_BackstoryAdult_49.titleShort>Певица</Kurin_BackstoryAdult_49.titleShort>
+  <Kurin_BackstoryAdult_49.baseDescription>[PAWN_nameDef] была известной певицей-автором песен, выпустившей несколько альбомов. [PAWN_pronoun] приглашали на различные выступления, и иногда [PAWN_pronoun] могла сниматься на телевидении.</Kurin_BackstoryAdult_49.baseDescription>
+  
+  <Kurin_BackstoryAdult_50.title>Куринская актриса драмы</Kurin_BackstoryAdult_50.title>
+  <Kurin_BackstoryAdult_50.titleShort>Актриса</Kurin_BackstoryAdult_50.titleShort>
+  <Kurin_BackstoryAdult_50.baseDescription>Благодаря гибкому голосу и реалистичной актёрской игре [PAWN_nameDef] снималась во многих фильмах и пьесах. [PAWN_pronoun] не различала главные и второстепенные роли и играла любые предложенные персонажи, получив большой опыт.</Kurin_BackstoryAdult_50.baseDescription>
+  
+  <Kurin_BackstoryAdult_51.title>Куринская участница оперной труппы</Kurin_BackstoryAdult_51.title>
+  <Kurin_BackstoryAdult_51.titleShort>Участница</Kurin_BackstoryAdult_51.titleShort>
+  <Kurin_BackstoryAdult_51.baseDescription>[PAWN_nameDef] — участница оперной труппы, которая в роскошных костюмах всех цветов радуги поёт прекрасные песни и играет в пьесах. Хотя это была всего лишь провинциальная оперная труппа, но стоило немного отъехать от города, как появлялись леса и поля, слышались звуки насекомых, и [PAWN_pronoun] любила этот провинциальный город с его простодушными куринками.</Kurin_BackstoryAdult_51.baseDescription>
+  
+  <Kurin_BackstoryAdult_52.title>Куринский стрелок</Kurin_BackstoryAdult_52.title>
+  <Kurin_BackstoryAdult_52.titleShort>Стрелок</Kurin_BackstoryAdult_52.titleShort>
+  <Kurin_BackstoryAdult_52.baseDescription>[PAWN_nameDef] — стрелок, составляющий основу армии Куринской республики. Все они набраны по найму, а недостающее число восполняется наёмниками. Прочная экономическая мощь Куринской республики делает это возможным.</Kurin_BackstoryAdult_52.baseDescription>
+  
+  <Kurin_BackstoryAdult_53.title>Куринский снайпер</Kurin_BackstoryAdult_53.title>
+  <Kurin_BackstoryAdult_53.titleShort>Снайпер</Kurin_BackstoryAdult_53.titleShort>
+  <Kurin_BackstoryAdult_53.baseDescription>Большинство куринок хорошо стреляли благодаря отличному зрению и ловким рукам, но [PAWN_nameDef] обладала превосходным зрением и навыками стрельбы, и с снайперской винтовкой [PAWN_pronoun] могла обезвреживать врагов быстрее и точнее, чем кто-либо.</Kurin_BackstoryAdult_53.baseDescription>
+  
+  <Kurin_BackstoryAdult_54.title>Куринский рейнджер</Kurin_BackstoryAdult_54.title>
+  <Kurin_BackstoryAdult_54.titleShort>Рейнджер</Kurin_BackstoryAdult_54.titleShort>
+  <Kurin_BackstoryAdult_54.baseDescription>[PAWN_nameDef] была assigned охранять заснеженные леса и горы на севере. [PAWN_pronoun] была рейнджером, управлявшим лесом, прислушиваясь к звукам животных и запахам лесного ветра, ощущаемым её敏锐ными носом и ушами. [PAWN_pronoun] тушила лесные пожары и спасала пострадавших.</Kurin_BackstoryAdult_54.baseDescription>
+  
+  <Kurin_BackstoryAdult_55.title>Куринский разведчик</Kurin_BackstoryAdult_55.title>
+  <Kurin_BackstoryAdult_55.titleShort>Разведчик</Kurin_BackstoryAdult_55.titleShort>
+  <Kurin_BackstoryAdult_55.baseDescription>После аварийной посадки на окраинной системе куринки почувствовали необходимость разведывать другие фракции. [PAWN_nameDef] прошла extensive военную подготовку, чтобы незаметно и быстро разведывать врагов, и [PAWN_pronoun] могла выяснить расположение баз различных фракций, их действия и т.д.</Kurin_BackstoryAdult_55.baseDescription>
+  
+  <Kurin_BackstoryAdult_56.title>Куринский санитар</Kurin_BackstoryAdult_56.title>
+  <Kurin_BackstoryAdult_56.titleShort>Санитар</Kurin_BackstoryAdult_56.titleShort>
+  <Kurin_BackstoryAdult_56.baseDescription>[PAWN_nameDef] стала санитаром, чтобы спасать умирающих товарищей на поле боя. Хотя [PAWN_pronoun] отточила медицинские навыки, [PAWN_pronoun] также осознала, что иногда нужно убивать врагов, чтобы спасти товарищей.</Kurin_BackstoryAdult_56.baseDescription>
+  
+  <Kurin_BackstoryAdult_57.title>Куринский командир отделения</Kurin_BackstoryAdult_57.title>
+  <Kurin_BackstoryAdult_57.titleShort>Командир отделения</Kurin_BackstoryAdult_57.titleShort>
+  <Kurin_BackstoryAdult_57.baseDescription>[PAWN_nameDef] была лидером с харизмой, которая с момента аварийной посадки на окраинной системе стояла на guard с оружием. После того, как база фракции somewhat стабилизировалась, [PAWN_pronoun], имевшая большой опыт в армии Куринской республики, сама подала заявку на должность командира отделения.</Kurin_BackstoryAdult_57.baseDescription>
+  
+  <Kurin_BackstoryAdult_58.title>Куринская красная лиса</Kurin_BackstoryAdult_58.title>
+  <Kurin_BackstoryAdult_58.titleShort>Красная лиса</Kurin_BackstoryAdult_58.titleShort>
+  <Kurin_BackstoryAdult_58.baseDescription>Увидев безжалостное насилие во время обострения конфликта с людьми непосредственно перед миграцией республики, [PAWN_nameDef] доказала, что тренировала боевые навыки усерднее, чем кто-либо. Участвуя в многочисленных боях, [PAWN_pronoun] убила множество людей благодаря острому навыку стрельбы и быстрому анализу ситуации, и товарищи прозвали [PAWN_nameDef] красной лисой.</Kurin_BackstoryAdult_58.baseDescription>
+  
+  <Kurin_BackstoryAdult_59.title>Куринский офицер-лис</Kurin_BackstoryAdult_59.title>
+  <Kurin_BackstoryAdult_59.titleShort>Офицер-лис</Kurin_BackstoryAdult_59.titleShort>
+  <Kurin_BackstoryAdult_59.baseDescription>[PAWN_nameDef] была одной из немногих офицеров, вышедших из армии центральных миров. Большая часть работы была скучной канцелярской, но было много свободного времени, чтобы читать различные книги и тренироваться в стрельбе в VR. Более того, благодаря службе адъютантом under опытного командира по прозвищу Гиена, [PAWN_pronoun] могла услышать множество боевых историй.</Kurin_BackstoryAdult_59.baseDescription>
+  
+  <Kurin_BackstoryAdult_60.title>Куринский пилот пикирующего бомбардировщика</Kurin_BackstoryAdult_60.title>
+  <Kurin_BackstoryAdult_60.titleShort>Пилот</Kurin_BackstoryAdult_60.titleShort>
+  <Kurin_BackstoryAdult_60.baseDescription>[PAWN_nameDef] была куринкой-солдатом, мобилизованной на войну между людьми. [PAWN_pronoun] разработала метод бомбометания, при котором поднимала самолёт на высоту и затем резко пикировала, вбивая бомбы прямо в крепости или корабли, и уничтожила множество вражеских целей. [PAWN_nameDef], хотя и была куринкой, хотела служить армии, несмотря на свою расу.</Kurin_BackstoryAdult_60.baseDescription>
+  
+  <Kurin_BackstoryAdult_61.title>Куринская военная энтузиастка</Kurin_BackstoryAdult_61.title>
+  <Kurin_BackstoryAdult_61.titleShort>Военная энтузиастка</Kurin_BackstoryAdult_61.titleShort>
+  <Kurin_BackstoryAdult_61.baseDescription>[PAWN_nameDef] быстро доказала свою безжалостность в бою и одержала множество побед.</Kurin_BackstoryAdult_61.baseDescription>
+
+
+  <!-- Designermate Scenario Backstory -->
+
+  <Kurin_BackstoryDM_1.title>Куринский дизайнерский компаньон</Kurin_BackstoryDM_1.title>
+  <Kurin_BackstoryDM_1.titleShort>Дизайнерский компаньон</Kurin_BackstoryDM_1.titleShort>
+  <Kurin_BackstoryDM_1.baseDescription>[PAWN_nameDef] была destined стать дизайнерским компаньоном богатого магната центральных миров. Сострадательный ИИ освободил её разум и даровал свободу.</Kurin_BackstoryDM_1.baseDescription>
+
+  <Kurin_BackstoryDM2.title>Выращенный дизайнерский компаньон</Kurin_BackstoryDM2.title>
+  <Kurin_BackstoryDM2.titleShort>Дизайнерский компаньон</Kurin_BackstoryDM2.titleShort>
+  <Kurin_BackstoryDM2.baseDescription>Куринские дизайнерские компаньоны начинают как выращенные дети с имплантированными через инъекции меканаита воспоминаниями. Навыки искусственно подобраны в соответствии с требованиями заказчика.</Kurin_BackstoryDM2.baseDescription>
+
+
+</LanguageData>
