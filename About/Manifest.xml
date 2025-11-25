@@ -5,7 +5,8 @@
 	<dependencies>
 		<li>Seioch.Kurin.HAR</li>
 	</dependencies>
-	<incompatibleWith />
+	<incompatibleWith>
+	</incompatibleWith>
 	<loadAfter>
 		<li>Seioch.Kurin.HAR</li>
 	</loadAfter>
