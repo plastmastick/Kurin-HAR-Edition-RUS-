@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DRNTF_NooseTrap.label>올가미 함정</DRNTF_NooseTrap.label>
-  <DRNTF_NooseTrap.description>적은 재료로 빠르게 만들 수 있는 쿠린의 특제 올가미 덫입니다. 함정을 작동시키면 올가미가 적을 묶어버립니다. 하지만 너무 큰 적과 메카노이드에게는 효과가 없습니다.</DRNTF_NooseTrap.description>
+  <DRNTF_NooseTrap.label>Петлевая ловушка</DRNTF_NooseTrap.label>
+  <DRNTF_NooseTrap.description>Особая куринская петлевая ловушка, которую можно быстро изготовить из небольшого количества материалов. При срабатывании ловушки петля связывает врага. Однако на слишком крупных врагов и механоидов не действует.</DRNTF_NooseTrap.description>
 
 </LanguageData>

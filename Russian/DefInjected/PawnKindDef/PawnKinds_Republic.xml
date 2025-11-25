@@ -1,74 +1,74 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 시민 -->
+  <!-- Граждане -->
 
-  <Kurin_Citizen.label>쿠린 시민</Kurin_Citizen.label>
-  <Kurin_Citizen.labelPlural>쿠린 시민들</Kurin_Citizen.labelPlural>
-  <Kurin_Citizen.labelMale>남성 쿠린 시민</Kurin_Citizen.labelMale>
-  <Kurin_Citizen.labelMalePlural>남성 쿠린 시민들</Kurin_Citizen.labelMalePlural>
-  <Kurin_Citizen.labelFemale>여성 쿠린 시민</Kurin_Citizen.labelFemale>
-  <Kurin_Citizen.labelFemalePlural>여성 쿠린 시민들</Kurin_Citizen.labelFemalePlural>
-
-
-  <!-- 자경단 -->
-
-  <Kurin_Vigilante.label>쿠린 자경단</Kurin_Vigilante.label>
-  <Kurin_Vigilante.labelPlural>쿠린 자경단들</Kurin_Vigilante.labelPlural>
-  <Kurin_Vigilante.labelMale>남성 쿠린 자경단</Kurin_Vigilante.labelMale>
-  <Kurin_Vigilante.labelMalePlural>남성 쿠린 자경단들</Kurin_Vigilante.labelMalePlural>
-  <Kurin_Vigilante.labelFemale>여성 쿠린 자경단</Kurin_Vigilante.labelFemale>
-  <Kurin_Vigilante.labelFemalePlural>여성 쿠린 자경단들</Kurin_Vigilante.labelFemalePlural>
+  <Kurin_Citizen.label>Куринский гражданин</Kurin_Citizen.label>
+  <Kurin_Citizen.labelPlural>Куринские граждане</Kurin_Citizen.labelPlural>
+  <Kurin_Citizen.labelMale>Мужчина-куринский гражданин</Kurin_Citizen.labelMale>
+  <Kurin_Citizen.labelMalePlural>Мужчины-куринские граждане</Kurin_Citizen.labelMalePlural>
+  <Kurin_Citizen.labelFemale>Женщина-куринский гражданин</Kurin_Citizen.labelFemale>
+  <Kurin_Citizen.labelFemalePlural>Женщины-куринские граждане</Kurin_Citizen.labelFemalePlural>
 
 
-  <!-- 상인 -->
+  <!-- Ополченцы -->
 
-  <Kurin_Trader.label>쿠린 상인</Kurin_Trader.label>
-  <Kurin_Trader.labelPlural>쿠린 상인들</Kurin_Trader.labelPlural>
-  <Kurin_Trader.labelMale>남성 쿠린 상인</Kurin_Trader.labelMale>
-  <Kurin_Trader.labelMalePlural>남성 쿠린 상인들</Kurin_Trader.labelMalePlural>
-  <Kurin_Trader.labelFemale>여성 쿠린 상인</Kurin_Trader.labelFemale>
-  <Kurin_Trader.labelFemalePlural>여성 쿠린 상인들</Kurin_Trader.labelFemalePlural>
-
-
-  <!-- 엘리트 -->
-
-  <Kurin_Elite.label>쿠린 엘리트</Kurin_Elite.label>
-  <Kurin_Elite.labelPlural>쿠린 엘리트들</Kurin_Elite.labelPlural>
-  <Kurin_Elite.labelMale>남성 쿠린 엘리트</Kurin_Elite.labelMale>
-  <Kurin_Elite.labelMalePlural>남성 쿠린 엘리트들</Kurin_Elite.labelMalePlural>
-  <Kurin_Elite.labelFemale>여성 쿠린 엘리트</Kurin_Elite.labelFemale>
-  <Kurin_Elite.labelFemalePlural>여성 쿠린 엘리트들</Kurin_Elite.labelFemalePlural>
+  <Kurin_Vigilante.label>Куринский ополченец</Kurin_Vigilante.label>
+  <Kurin_Vigilante.labelPlural>Куринские ополченцы</Kurin_Vigilante.labelPlural>
+  <Kurin_Vigilante.labelMale>Мужчина-куринский ополченец</Kurin_Vigilante.labelMale>
+  <Kurin_Vigilante.labelMalePlural>Мужчины-куринские ополченцы</Kurin_Vigilante.labelMalePlural>
+  <Kurin_Vigilante.labelFemale>Женщина-куринский ополченец</Kurin_Vigilante.labelFemale>
+  <Kurin_Vigilante.labelFemalePlural>Женщины-куринские ополченцы</Kurin_Vigilante.labelFemalePlural>
 
 
-  <!-- 군인(분대원) -->
+  <!-- Торговцы -->
 
-  <Kurin_Soldier.label>쿠린 분대원</Kurin_Soldier.label>
-  <Kurin_Soldier.labelPlural>쿠린 분대원들</Kurin_Soldier.labelPlural>
-  <Kurin_Soldier.labelMale>남성 쿠린 분대원</Kurin_Soldier.labelMale>
-  <Kurin_Soldier.labelMalePlural>남성 쿠린 분대원들</Kurin_Soldier.labelMalePlural>
-  <Kurin_Soldier.labelFemale>여성 쿠린 분대원</Kurin_Soldier.labelFemale>
-  <Kurin_Soldier.labelFemalePlural>여성 쿠린 분대원들</Kurin_Soldier.labelFemalePlural>
-
-
-  <!-- 군인(분대장) -->
-
-  <Kurin_EliteSoldier.label>쿠린 분대장</Kurin_EliteSoldier.label>
-  <Kurin_EliteSoldier.labelPlural>쿠린 분대장들</Kurin_EliteSoldier.labelPlural>
-  <Kurin_EliteSoldier.labelMale>남성 쿠린 분대장</Kurin_EliteSoldier.labelMale>
-  <Kurin_EliteSoldier.labelMalePlural>남성 쿠린 분대장들</Kurin_EliteSoldier.labelMalePlural>
-  <Kurin_EliteSoldier.labelFemale>여성 쿠린 분대장</Kurin_EliteSoldier.labelFemale>
-  <Kurin_EliteSoldier.labelFemalePlural>여성 쿠린 분대장들</Kurin_EliteSoldier.labelFemalePlural>
+  <Kurin_Trader.label>Куринский торговец</Kurin_Trader.label>
+  <Kurin_Trader.labelPlural>Куринские торговцы</Kurin_Trader.labelPlural>
+  <Kurin_Trader.labelMale>Мужчина-куринский торговец</Kurin_Trader.labelMale>
+  <Kurin_Trader.labelMalePlural>Мужчины-куринские торговцы</Kurin_Trader.labelMalePlural>
+  <Kurin_Trader.labelFemale>Женщина-куринский торговец</Kurin_Trader.labelFemale>
+  <Kurin_Trader.labelFemalePlural>Женщины-куринские торговцы</Kurin_Trader.labelFemalePlural>
 
 
-  <!-- 군인(저격수) -->
+  <!-- элита -->
 
-  <Kurin_Sniper.label>쿠린 저격병</Kurin_Sniper.label>
-  <Kurin_Sniper.labelPlural>쿠린 저격병들</Kurin_Sniper.labelPlural>
-  <Kurin_Sniper.labelMale>남성 쿠린 저격병</Kurin_Sniper.labelMale>
-  <Kurin_Sniper.labelMalePlural>남성 쿠린 저격병들</Kurin_Sniper.labelMalePlural>
-  <Kurin_Sniper.labelFemale>여성 쿠린 저격병</Kurin_Sniper.labelFemale>
-  <Kurin_Sniper.labelFemalePlural>여성 쿠린 저격병들</Kurin_Sniper.labelFemalePlural>
+  <Kurin_Elite.label>Куринская элита</Kurin_Elite.label>
+  <Kurin_Elite.labelPlural>Куринская элита</Kurin_Elite.labelPlural>
+  <Kurin_Elite.labelMale>Мужчина-куринская элита</Kurin_Elite.labelMale>
+  <Kurin_Elite.labelMalePlural>Мужчины-куринская элита</Kurin_Elite.labelMalePlural>
+  <Kurin_Elite.labelFemale>Женщина-куринская элита</Kurin_Elite.labelFemale>
+  <Kurin_Elite.labelFemalePlural>Женщины-куринская элита</Kurin_Elite.labelFemalePlural>
+
+
+  <!-- солдаты -->
+
+  <Kurin_Soldier.label>Куринский солдат</Kurin_Soldier.label>
+  <Kurin_Soldier.labelPlural>Куринские солдаты</Kurin_Soldier.labelPlural>
+  <Kurin_Soldier.labelMale>Мужчина-куринский солдат</Kurin_Soldier.labelMale>
+  <Kurin_Soldier.labelMalePlural>Мужчины-куринские солдаты</Kurin_Soldier.labelMalePlural>
+  <Kurin_Soldier.labelFemale>Женщина-куринский солдат</Kurin_Soldier.labelFemale>
+  <Kurin_Soldier.labelFemalePlural>Женщины-куринские солдаты</Kurin_Soldier.labelFemalePlural>
+
+
+  <!-- командиры -->
+
+  <Kurin_EliteSoldier.label>Куринский командир отделения</Kurin_EliteSoldier.label>
+  <Kurin_EliteSoldier.labelPlural>Куринские командиры отделений</Kurin_EliteSoldier.labelPlural>
+  <Kurin_EliteSoldier.labelMale>Мужчина-куринский командир отделения</Kurin_EliteSoldier.labelMale>
+  <Kurin_EliteSoldier.labelMalePlural>Мужчины-куринские командиры отделений</Kurin_EliteSoldier.labelMalePlural>
+  <Kurin_EliteSoldier.labelFemale>Женщина-куринский командир отделения</Kurin_EliteSoldier.labelFemale>
+  <Kurin_EliteSoldier.labelFemalePlural>Женщины-куринские командиры отделений</Kurin_EliteSoldier.labelFemalePlural>
+
+
+  <!-- снайперы -->
+
+  <Kurin_Sniper.label>Куринский снайпер</Kurin_Sniper.label>
+  <Kurin_Sniper.labelPlural>Куринские снайперы</Kurin_Sniper.labelPlural>
+  <Kurin_Sniper.labelMale>Мужчина-куринский снайпер</Kurin_Sniper.labelMale>
+  <Kurin_Sniper.labelMalePlural>Мужчины-куринские снайперы</Kurin_Sniper.labelMalePlural>
+  <Kurin_Sniper.labelFemale>Женщина-куринский снайпер</Kurin_Sniper.labelFemale>
+  <Kurin_Sniper.labelFemalePlural>Женщины-куринские снайперы</Kurin_Sniper.labelFemalePlural>
 
 
 </LanguageData>
