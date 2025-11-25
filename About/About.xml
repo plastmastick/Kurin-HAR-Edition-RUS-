@@ -2,7 +2,7 @@
 <ModMetaData>
   <name>Kurin HAR Edition [RUS]</name>
   <author>plastmastick</author>
-  <packageId>Seioch.Kurin.HAR.rus</packageId>
+  <packageId>plastmastick.Kurin.HAR.rus</packageId>
   <modIconPath IgnoreIfNoMatchingField="True">Kurin/ModIcon</modIconPath>
   <supportedVersions>
     <li>1.5</li>
