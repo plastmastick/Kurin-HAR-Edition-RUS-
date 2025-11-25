@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Kurin_Player.label>Новое поселение куринок</Kurin_Player.label>
+  <Kurin_Player.description>Поселение куринок.</Kurin_Player.description>
+  <Kurin_Player.pawnsPlural>Куринки-поселенцы</Kurin_Player.pawnsPlural>
+
+  <Kurin_Faction.label>Куринская республика</Kurin_Faction.label>
+  <Kurin_Faction.description>Сила куринок, прибывших несколько десятилетий назад.\nПроизошло много событий, но теперь у них достаточно сил, чтобы защитить себя.</Kurin_Faction.description>
+  <Kurin_Faction.pawnsPlural>Куринки</Kurin_Faction.pawnsPlural>
+  <Kurin_Faction.leaderTitle>Президент</Kurin_Faction.leaderTitle>
+  
+  <Kurin_Faction_Hostile.label>Стая Чонхо</Kurin_Faction_Hostile.label>
+  <Kurin_Faction_Hostile.description>Куринки, которые видят в войне единственный способ защитить свой народ.</Kurin_Faction_Hostile.description>
+  <Kurin_Faction_Hostile.pawnsPlural>Куринки</Kurin_Faction_Hostile.pawnsPlural>
+  <Kurin_Faction_Hostile.leaderTitle>Военный вождь</Kurin_Faction_Hostile.leaderTitle>
+
+
+</LanguageData>

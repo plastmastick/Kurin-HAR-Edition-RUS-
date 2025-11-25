@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Kurin_Underwear.label>Куринское белое бельё</Kurin_Underwear.label>
+  <Kurin_Underwear.description>Обычное бельё, окрашенное в белый цвет.</Kurin_Underwear.description>
+  
+  <Kurin_Underwear_Stuffed.label>Куринское бельё</Kurin_Underwear_Stuffed.label>
+  <Kurin_Underwear_Stuffed.description>Обычное бельё, цвет которого зависит от использованных материалов.</Kurin_Underwear_Stuffed.description>
+  
+  <Kurin_Underwear_Prude.label>Куринское скромное бельё</Kurin_Underwear_Prude.label>
+  <Kurin_Underwear_Prude.description>Очень лёгкое и удобное бельё, в котором куринец может забыть, что оно надето.</Kurin_Underwear_Prude.description>
+
+  <Kurin_Underwear_Black.label>Куринское чёрное бельё</Kurin_Underwear_Black.label>
+  <Kurin_Underwear_Black.description>Обычное бельё, окрашенное в чёрный цвет.</Kurin_Underwear_Black.description>
+
+  <Kurin_Underwear_Red.label>Куринское красное бельё</Kurin_Underwear_Red.label>
+  <Kurin_Underwear_Red.description>Обычное бельё, окрашенное в красный цвет.</Kurin_Underwear_Red.description>
+
+  <Kurin_Underwear_Striped.label>Куринское белое полосатое бельё</Kurin_Underwear_Striped.label>
+  <Kurin_Underwear_Striped.description>Милые полосатые трусики. Окрашены в белый цвет.</Kurin_Underwear_Striped.description>
+  
+  <Kurin_Underwear_Striped_Stuffed.label>Куринское полосатое бельё</Kurin_Underwear_Striped_Stuffed.label>
+  <Kurin_Underwear_Striped_Stuffed.description>Милые полосатые трусики. Цвет можно изменить.</Kurin_Underwear_Striped_Stuffed.description>
+
+  <Kurin_Underwear_Slim.label>Куринское тонкое бельё</Kurin_Underwear_Slim.label>
+  <Kurin_Underwear_Slim.description>Очень тонкое бельё для куринцев. Мало что прикрывает.</Kurin_Underwear_Slim.description>
+
+
+</LanguageData>

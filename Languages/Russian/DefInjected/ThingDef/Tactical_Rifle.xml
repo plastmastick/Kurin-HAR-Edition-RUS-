@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Kurin_Gun_Assault_Rifle.label>Куринская штурмовая винтовка</Kurin_Gun_Assault_Rifle.label>
+  <Kurin_Gun_Assault_Rifle.description>Штурмовая винтовка, разработанная куринцами. В обмен на низкий урон и небольшую скорострельность получила быстрые снаряды и высокую пробивную способность. Производство дешевле, чем у стандартных штурмовых винтовок.</Kurin_Gun_Assault_Rifle.description>
+  <Kurin_Gun_Assault_Rifle.tools.0.label>Приклад</Kurin_Gun_Assault_Rifle.tools.0.label>
+  <Kurin_Gun_Assault_Rifle.tools.1.label>Ствол</Kurin_Gun_Assault_Rifle.tools.1.label>
+
+  <Kurin_Bullet_Assault_Rifle.label>Куринский патрон</Kurin_Bullet_Assault_Rifle.label>
+
+  <Kurin_Gun_Carbine.label>Куринский карабин</Kurin_Gun_Carbine.label>
+  <Kurin_Gun_Carbine.description>Карабин, разработанный куринцами. Имеет короткую дальность, но быстрые снаряды и высокую пробивную способность. Производство дешевле, чем у стандартных штурмовых винтовок.</Kurin_Gun_Carbine.description>
+  <Kurin_Gun_Carbine.tools.0.label>Приклад</Kurin_Gun_Carbine.tools.0.label>
+  <Kurin_Gun_Carbine.tools.1.label>Ствол</Kurin_Gun_Carbine.tools.1.label>
+
+  <Kurin_Bullet_Carbine.label>Куринский патрон</Kurin_Bullet_Carbine.label>
+
+  <Kurin_Gun_Sniper_Rifle.label>Куринская снайперская винтовка</Kurin_Gun_Sniper_Rifle.label>
+  <Kurin_Gun_Sniper_Rifle.description>Снайперская винтовка, разработанная куринцами. Стреляет быстрее, чем стандартные снайперские винтовки, но имеет меньший урон и пробивную способность.</Kurin_Gun_Sniper_Rifle.description>
+  <Kurin_Gun_Sniper_Rifle.tools.0.label>Приклад</Kurin_Gun_Sniper_Rifle.tools.0.label>
+  <Kurin_Gun_Sniper_Rifle.tools.1.label>Ствол</Kurin_Gun_Sniper_Rifle.tools.1.label>
+
+  <Kurin_Bullet_Sniper_Rifle.label>Куринский патрон</Kurin_Bullet_Sniper_Rifle.label>
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Kurin_ApparelT1.label>Простая куринская одежда</Kurin_ApparelT1.label>
+  <Kurin_ApparelT1.description>Исследует способ изготовления простой одежды.</Kurin_ApparelT1.description>
+
+  <Kurin_ApparelT2.label>Обычная куринская одежда</Kurin_ApparelT2.label>
+  <Kurin_ApparelT2.description>Исследует способ изготовления обычной одежды.</Kurin_ApparelT2.description>
+
+  <Kurin_ApparelT3.label>Продвинутая куринская одежда</Kurin_ApparelT3.label>
+  <Kurin_ApparelT3.description>Исследует способ изготовления продвинутой одежды.</Kurin_ApparelT3.description>
+
+  <Kurin_Turret.label>Куринские оборонительные сооружения</Kurin_Turret.label>
+  <Kurin_Turret.description>Исследует способ сборки древних оборонительных турелей.</Kurin_Turret.description>
+
+
+</LanguageData>

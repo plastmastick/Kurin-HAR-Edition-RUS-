@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Kurin_Body.label>Куринка</Kurin_Body.label>
+  <Kurin_Body.corePart.parts.4.customLabel>Верхний хвост</Kurin_Body.corePart.parts.4.customLabel>
+  <Kurin_Body.corePart.parts.5.customLabel>Нижний хвост</Kurin_Body.corePart.parts.5.customLabel>
+  <Kurin_Body.corePart.parts.6.customLabel>Средний хвост</Kurin_Body.corePart.parts.6.customLabel>
+  <Kurin_Body.corePart.parts.9.customLabel>Левое лёгкое</Kurin_Body.corePart.parts.9.customLabel>
+  <Kurin_Body.corePart.parts.10.customLabel>Правое лёгкое</Kurin_Body.corePart.parts.10.customLabel>
+  <Kurin_Body.corePart.parts.11.customLabel>Левая почка</Kurin_Body.corePart.parts.11.customLabel>
+  <Kurin_Body.corePart.parts.12.customLabel>Правая почка</Kurin_Body.corePart.parts.12.customLabel>
+  <Kurin_Body.corePart.parts.14.parts.0.parts.1.customLabel>Левый глаз</Kurin_Body.corePart.parts.14.parts.0.parts.1.customLabel>
+  <Kurin_Body.corePart.parts.14.parts.0.parts.2.customLabel>Правый глаз</Kurin_Body.corePart.parts.14.parts.0.parts.2.customLabel>
+  <Kurin_Body.corePart.parts.14.parts.0.parts.3.customLabel>Левое ухо</Kurin_Body.corePart.parts.14.parts.0.parts.3.customLabel>
+  <Kurin_Body.corePart.parts.14.parts.0.parts.4.customLabel>Правое ухо</Kurin_Body.corePart.parts.14.parts.0.parts.4.customLabel>
+  <Kurin_Body.corePart.parts.15.customLabel>Левое плечо</Kurin_Body.corePart.parts.15.customLabel>
+  <Kurin_Body.corePart.parts.15.parts.0.customLabel>Левая ключица</Kurin_Body.corePart.parts.15.parts.0.customLabel>
+  <Kurin_Body.corePart.parts.15.parts.1.customLabel>Левая рука</Kurin_Body.corePart.parts.15.parts.1.customLabel>
+  <Kurin_Body.corePart.parts.15.parts.1.parts.0.customLabel>Левая плечевая кость</Kurin_Body.corePart.parts.15.parts.1.parts.0.customLabel>
+  <Kurin_Body.corePart.parts.15.parts.1.parts.1.customLabel>Левая лучевая кость</Kurin_Body.corePart.parts.15.parts.1.parts.1.customLabel>
+  <Kurin_Body.corePart.parts.15.parts.1.parts.2.customLabel>Левая кисть</Kurin_Body.corePart.parts.15.parts.1.parts.2.customLabel>
+  <Kurin_Body.corePart.parts.15.parts.1.parts.2.parts.0.customLabel>Левый мизинец</Kurin_Body.corePart.parts.15.parts.1.parts.2.parts.0.customLabel>
+  <Kurin_Body.corePart.parts.15.parts.1.parts.2.parts.1.customLabel>Левый безымянный палец</Kurin_Body.corePart.parts.15.parts.1.parts.2.parts.1.customLabel>
+  <Kurin_Body.corePart.parts.15.parts.1.parts.2.parts.2.customLabel>Левый средний палец</Kurin_Body.corePart.parts.15.parts.1.parts.2.parts.2.customLabel>
+  <Kurin_Body.corePart.parts.15.parts.1.parts.2.parts.3.customLabel>Левый указательный палец</Kurin_Body.corePart.parts.15.parts.1.parts.2.parts.3.customLabel>
+  <Kurin_Body.corePart.parts.15.parts.1.parts.2.parts.4.customLabel>Левый большой палец</Kurin_Body.corePart.parts.15.parts.1.parts.2.parts.4.customLabel>
+  <Kurin_Body.corePart.parts.16.customLabel>Правое плечо</Kurin_Body.corePart.parts.16.customLabel>
+  <Kurin_Body.corePart.parts.16.parts.0.customLabel>Правая ключица</Kurin_Body.corePart.parts.16.parts.0.customLabel>
+  <Kurin_Body.corePart.parts.16.parts.1.customLabel>Правая рука</Kurin_Body.corePart.parts.16.parts.1.customLabel>
+  <Kurin_Body.corePart.parts.16.parts.1.parts.0.customLabel>Правая плечевая кость</Kurin_Body.corePart.parts.16.parts.1.parts.0.customLabel>
+  <Kurin_Body.corePart.parts.16.parts.1.parts.1.customLabel>Правая лучевая кость</Kurin_Body.corePart.parts.16.parts.1.parts.1.customLabel>
+  <Kurin_Body.corePart.parts.16.parts.1.parts.2.customLabel>Правая кисть</Kurin_Body.corePart.parts.16.parts.1.parts.2.customLabel>
+  <Kurin_Body.corePart.parts.16.parts.1.parts.2.parts.0.customLabel>Правый мизинец</Kurin_Body.corePart.parts.16.parts.1.parts.2.parts.0.customLabel>
+  <Kurin_Body.corePart.parts.16.parts.1.parts.2.parts.1.customLabel>Правый безымянный палец</Kurin_Body.corePart.parts.16.parts.1.parts.2.parts.1.customLabel>
+  <Kurin_Body.corePart.parts.16.parts.1.parts.2.parts.2.customLabel>Правый средний палец</Kurin_Body.corePart.parts.16.parts.1.parts.2.parts.2.customLabel>
+  <Kurin_Body.corePart.parts.16.parts.1.parts.2.parts.3.customLabel>Правый указательный палец</Kurin_Body.corePart.parts.16.parts.1.parts.2.parts.3.customLabel>
+  <Kurin_Body.corePart.parts.16.parts.1.parts.2.parts.4.customLabel>Правый большой палец</Kurin_Body.corePart.parts.16.parts.1.parts.2.parts.4.customLabel>
+  <Kurin_Body.corePart.parts.18.customLabel>Левая нога</Kurin_Body.corePart.parts.18.customLabel>
+  <Kurin_Body.corePart.parts.18.parts.0.customLabel>Левая бедренная кость</Kurin_Body.corePart.parts.18.parts.0.customLabel>
+  <Kurin_Body.corePart.parts.18.parts.1.customLabel>Левая большеберцовая кость</Kurin_Body.corePart.parts.18.parts.1.customLabel>
+  <Kurin_Body.corePart.parts.18.parts.2.customLabel>Левая стопа</Kurin_Body.corePart.parts.18.parts.2.customLabel>
+  <Kurin_Body.corePart.parts.18.parts.2.parts.0.customLabel>Левый мизинец</Kurin_Body.corePart.parts.18.parts.2.parts.0.customLabel>
+  <Kurin_Body.corePart.parts.18.parts.2.parts.1.customLabel>Левый безымянный палец</Kurin_Body.corePart.parts.18.parts.2.parts.1.customLabel>
+  <Kurin_Body.corePart.parts.18.parts.2.parts.2.customLabel>Левый средний палец</Kurin_Body.corePart.parts.18.parts.2.parts.2.customLabel>
+  <Kurin_Body.corePart.parts.18.parts.2.parts.3.customLabel>Левый второй палец</Kurin_Body.corePart.parts.18.parts.2.parts.3.customLabel>
+  <Kurin_Body.corePart.parts.18.parts.2.parts.4.customLabel>Левый большой палец</Kurin_Body.corePart.parts.18.parts.2.parts.4.customLabel>
+  <Kurin_Body.corePart.parts.19.customLabel>Правая нога</Kurin_Body.corePart.parts.19.customLabel>
+  <Kurin_Body.corePart.parts.19.parts.0.customLabel>Правая бедренная кость</Kurin_Body.corePart.parts.19.parts.0.customLabel>
+  <Kurin_Body.corePart.parts.19.parts.1.customLabel>Правая большеберцовая кость</Kurin_Body.corePart.parts.19.parts.1.customLabel>
+  <Kurin_Body.corePart.parts.19.parts.2.customLabel>Правая стопа</Kurin_Body.corePart.parts.19.parts.2.customLabel>
+  <Kurin_Body.corePart.parts.19.parts.2.parts.0.customLabel>Правый мизинец</Kurin_Body.corePart.parts.19.parts.2.parts.0.customLabel>
+  <Kurin_Body.corePart.parts.19.parts.2.parts.1.customLabel>Правый безымянный палец</Kurin_Body.corePart.parts.19.parts.2.parts.1.customLabel>
+  <Kurin_Body.corePart.parts.19.parts.2.parts.2.customLabel>Правый средний палец</Kurin_Body.corePart.parts.19.parts.2.parts.2.customLabel>
+  <Kurin_Body.corePart.parts.19.parts.2.parts.3.customLabel>Правый второй палец</Kurin_Body.corePart.parts.19.parts.2.parts.3.customLabel>
+  <Kurin_Body.corePart.parts.19.parts.2.parts.4.customLabel>Правый большой палец</Kurin_Body.corePart.parts.19.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

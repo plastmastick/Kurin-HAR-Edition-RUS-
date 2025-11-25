@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Куринское Церемониальное Алебардное Оружие -->
+
+  <Kurin_MeleeWeapon_Ceremonial_Polearm.label>Куринский церемониальный полэкс</Kurin_MeleeWeapon_Ceremonial_Polearm.label>
+  <Kurin_MeleeWeapon_Ceremonial_Polearm.description>Большой шест с острыми лезвиями на обоих концах. Полэкс, подходящий для быстрых рубящих и колющих ударов, был грозным оружием куринской гвардии. Однако после падения Куринской Республики оригинальный и смертоносный дизайн был утрачен, и это оружие теперь является простой репликой.</Kurin_MeleeWeapon_Ceremonial_Polearm.description>
+  <Kurin_MeleeWeapon_Ceremonial_Polearm.tools.0.label>Остриё</Kurin_MeleeWeapon_Ceremonial_Polearm.tools.0.label>
+  <Kurin_MeleeWeapon_Ceremonial_Polearm.tools.1.label>Лезвие</Kurin_MeleeWeapon_Ceremonial_Polearm.tools.1.label>
+
+
+  <!-- Куринское Нано-лезвие Полэкс -->
+
+  <Kurin_nanoedge.label>Куринский полэкс с нанолезвием</Kurin_nanoedge.label>
+  <Kurin_nanoedge.description>Оружие для осад, выдававшееся элитной гвардии Куринской Республики. Лезвие оснащено механитом, что делает его сравнимым по остроте с моно-мечом. Подлинный артефакт старой Куринской Республики.</Kurin_nanoedge.description>
+  <Kurin_nanoedge.tools.0.label>Остриё</Kurin_nanoedge.tools.0.label>
+  <Kurin_nanoedge.tools.1.label>Лезвие</Kurin_nanoedge.tools.1.label>
+
+
+</LanguageData>

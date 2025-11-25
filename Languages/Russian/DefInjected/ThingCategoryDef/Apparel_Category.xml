@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Kurin_Apparel.label>Куринская одежда</Kurin_Apparel.label>
+  <Kurin_Apparel_Belt.label>Куринский шарф</Kurin_Apparel_Belt.label>
+  <Kurin_Apparel_Underwear.label>Куринское нижнее бельё</Kurin_Apparel_Underwear.label>
+  <!-- <Kurin_Apparel_Stocking.label>Куринские чулки</Kurin_Apparel_Stocking.label> -->
+  <Kurin_Apparel_OnSkin.label>Куринское нательное бельё</Kurin_Apparel_OnSkin.label>
+  <Kurin_Apparel_Middle.label>Куринская одежда</Kurin_Apparel_Middle.label>
+  <Kurin_Apparel_Shell.label>Куринская верхняя одежда</Kurin_Apparel_Shell.label>
+  <Kurin_Apparel_Overhead.label>Куринские головные уборы</Kurin_Apparel_Overhead.label>
+
+
+</LanguageData>
