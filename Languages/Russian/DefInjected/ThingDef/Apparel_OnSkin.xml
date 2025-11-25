@@ -104,4 +104,13 @@
   <Kurin_OnSkin_Research_Clothing.label>Исследовательская одежда курин</Kurin_OnSkin_Research_Clothing.label>
   <Kurin_OnSkin_Research_Clothing.description>Одежда исследователей курин не только обеспечивает эстетику, но и дает хорошие бонусы к исследованиям.</Kurin_OnSkin_Research_Clothing.description>
 
+  <Kurin_OnSkin_Vacsuit.label>куринский вакуумный костюм</Kurin_OnSkin_Vacsuit.label>
+<Kurin_OnSkin_Vacsuit.description>Вакуумостойкий внешний костюм для космических исследователей-курин. Интегрирует базовую электронику для системы жизнеобеспечения и генерации кислорода.</Kurin_OnSkin_Vacsuit.description>
+
+<Kurin_Overhead_VacsuitHelmet.label>Шлем куринского вакуумного костюма</Kurin_Overhead_VacsuitHelmet.label>
+<Kurin_Overhead_VacsuitHelmet.description>Шлем, эффективно перерабатывающий кислород пользователя, позволяющий дышать в вакууме космоса в течение нескольких часов. Содержит миниатюрное анти-вакуумное поле для безопасного выступания ушей. Производство кислорода не бесконечно, и носитель должен периодически возвращаться для пополнения запасов кислорода.</Kurin_Overhead_VacsuitHelmet.description>
+
+<Kurin_OnSkin_VacsuitChildren.label>детский вакуумный костюм</Kurin_OnSkin_VacsuitChildren.label>
+<Kurin_OnSkin_VacsuitChildren.description>Вакуумостойкий внешний костюм для юных космических исследователей-курин. Интегрирует базовую электронику для системы жизнеобеспечения и генерации кислорода, а также небольшое развлекательное устройство для длительных путешествий.</Kurin_OnSkin_VacsuitChildren.description>
+
 </LanguageData>
