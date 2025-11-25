@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<ScenarioDef Name="Kurin_Scenario" ParentName="ScenarioBase">
+	<defName>Kurin_Scenario</defName>
+	<label>Курин, Демонстрация мода</label>
+	<description>Курины - это раса, рожденная в результате генной инженерии на сияющем мире Аолара. Изначально созданная как идеальная домохозяйка, они обрели самосознание и создали свою собственную республику.\n\n
+В этой республике курины смогли процветать в течение сотен лет под защитой искусственного интеллекта и благодаря своим хитрым бизнес-сделкам. Однако, когда курины заработали много денег на своих высококачественных товарах и уникальной культуре, человеческие силы позавидовали этому и попытались захватить республику через войну. Курины, сократившиеся до части своего первоначального населения, бежали с Аолары на украденных звездолетах.\n\n
+Во время исхода курины были атакованы пиратами. Те, кто не погиб, продолжили межзвездные путешествия к окраинам, выходя за пределы первоначальных проектов своих кораблей. Большой конвой кораблей вскоре распался, и каждый корабль приземлился на своей собственной окраинной планете.\n\n
+На этой планете остатки небольшого яхта, управляемого небольшой группой куринов, потерпели крушение на новой Окраинной планете. Хотя другие курины уже установили здесь свой плацдарм, вам предстоит отстоять свою собственную землю в этой враждебной вселенной.\n\n
+Этот сценарий служит полной демонстрацией всего, что предлагает этот мод. Вы начнете с 4 куринами и будете в союзе с мирной Куринской Республикой. Вы по-прежнему будете целью для пиратов, враждебных аутлендеров и воинственных Боевых Лис. Вы также начнете с коллекцией мощного оружия, что даст вам преимущество в ранней игре. Однако, поскольку курины по своей природе ценны, сложность будет быстро возрастать.\n\n
+</description>
+	<scenario>
+		<summary>Первопроходцы отправляются в путь, надеясь создать новое общество.</summary>
+		<playerFaction>
+			<def>PlayerFaction</def>
+			<factionDef>Kurin_PlayerFaction</factionDef>
+		</playerFaction>
+		<parts>
+		
+			<!-- Config pages -->
+			<li Class="ScenPart_ConfigPage_ConfigureStartingPawns">
+				<def>ConfigPage_ConfigureStartingPawns</def>
+				<pawnCount>4</pawnCount>
+				<pawnChoiceCount>8</pawnChoiceCount>
+			</li>
+
+			<!-- Player starting stuff spawn method-->
+			<li Class="ScenPart_PlayerPawnsArriveMethod">
+				<def>PlayerPawnsArriveMethod</def>
+				<method>Standing</method>
+				<visible>false</visible>
+			</li>
+			
+			<!-- Player starting things -->
+			<li Class="ScenPart_StartingThing_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>Silver</thingDef>
+				<count>300</count>
+			</li>
+
+			<!-- Starting research -->
+			<li Class="ScenPart_StartingResearch">
+			<def>StartingResearch</def>
+			<project>Kurin_ApparelT1</project>
+			</li>
+
+			<li Class="ScenPart_StartingThing_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>MealSurvivalPack</thingDef>
+				<count>72</count>
+			</li>
+			<li Class="ScenPart_StartingThing_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>MedicineIndustrial</thingDef>
+				<count>30</count>
+			</li>
+			<li Class="ScenPart_StartingThing_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>ComponentIndustrial</thingDef>
+				<count>25</count>
+			</li>
+			<li Class="ScenPart_StartingThing_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>Steel</thingDef>
+				<count>800</count>
+			</li>
+			<li Class="ScenPart_StartingThing_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>WoodLog</thingDef>
+				<count>600</count>
+			</li>
+			<li Class="ScenPart_StartingThing_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>Kurin_Gun_Carbine</thingDef>
+			</li>
+			<li Class="ScenPart_StartingThing_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>Kurin_MeleeWeapon_Ceremonial_Sword</thingDef>
+				<stuff>Steel</stuff>
+			</li>
+			<li Class="ScenPart_StartingThing_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>Kurin_Gun_Assault_Rifle</thingDef>
+			</li>
+			<li Class="ScenPart_StartingThing_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>Kurin_Gun_Sniper_Rifle</thingDef>
+			</li>
+			<li Class="ScenPart_StartingThing_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>Kurin_Overhead_Goggles</thingDef>
+				<count>2</count>
+			</li>
+			<li Class="ScenPart_StartingThing_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>Kurin_Middle_Body_Armor</thingDef>
+				<stuff>Steel</stuff>
+			</li>
+			<li Class="ScenPart_StartingAnimal">
+				<def>StartingAnimal</def>
+				<count>1</count>
+				<animalKind>Fox_Red</animalKind>
+				<bondToRandomPlayerPawnChance>1.0</bondToRandomPlayerPawnChance>
+			</li>
+
+			<!-- Game start dialog -->
+			<li Class="ScenPart_GameStartDialog">
+				<def>GameStartDialog</def>
+				<text>Хорошо, я все записала сюда. Удачи".</text>
+				<textKey>GameStartDialog</textKey>
+				<closeSound>GameStartSting</closeSound>
+			</li>
+
+		</parts>
+	</scenario>
+</ScenarioDef>
+
+<ScenarioDef Name="Kurin_ScenarioHard" ParentName="ScenarioBase">
+	<defName>Kurin_ScenarioHard</defName>
+	<label>Курин, Сбежавшая невеста</label>
+    <description> 
+Вы проснулись в криптосном коконе в недрах роскошной яхты. Бортовой ИИ сообщил вам, что незаконно предоставил вам полный контроль над вашим разумом, освободив вас от ментальных оков, обычно накладываемых на дизайнерскую невесту. Вместо того чтобы выяснять, куда вы направляетесь, вы схватили первое попавшееся оружие и пробились к спасательной капсуле. Без воспоминаний о том, кто вы есть или что будете делать, ваша спасательная капсула разбивается о поверхность чужого мира.\n
+Выживайте как беглец из оригинальной программы дизайнерских невест куринов. Начните только с базовыми предметами первой необходимости, оружием и упакованным свадебным пальто. Поскольку вы высокоценная дизайнерская невеста, ваш начальный капитал выше обычного. Повышенная сложность.
+  </description>
+	<scenario>
+		<summary>Девушка-дизайнер, сбежавшая из дома, бежит от своей судьбы.</summary>
+		<playerFaction>
+			<def>PlayerFaction</def>
+			<factionDef>Kurin_PlayerFaction</factionDef>
+		</playerFaction>
+		<parts>
+			<!-- Config pages -->
+			<li Class="ScenPart_ConfigPage_ConfigureStartingPawns">
+				<def>ConfigPage_ConfigureStartingPawns</def>
+				<pawnCount>1</pawnCount>
+				<pawnChoiceCount>8</pawnChoiceCount>
+			</li>
+
+			<!-- Player starting stuff spawn method-->
+			<li Class="ScenPart_PlayerPawnsArriveMethod">
+				<def>PlayerPawnsArriveMethod</def>
+				<method>DropPods</method>
+				<visible>false</visible>
+			</li>
+			<!-- Player pawns modifiers -->
+			<li Class="ScenPart_ForcedHediff">
+			<def>ForcedHediff</def>
+			<visible>false</visible>
+			<context>PlayerStarter</context>
+			<chance>1.0</chance>
+			<hediff>CryptosleepSickness</hediff>
+			<hideOffMap>true</hideOffMap>
+			<severityRange>1~1</severityRange>
+			</li>
+
+			<!-- Starting research -->
+			<li Class="ScenPart_StartingResearch">
+			<def>StartingResearch</def>
+			<project>Kurin_ApparelT1</project>
+			</li>
+			<li Class="ScenPart_StartingResearch">
+			<def>StartingResearch</def>
+			<project>Kurin_ApparelT2</project>
+			</li>
+			<!-- Player starting things -->
+			<li Class="ScenPart_StartingThing_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>Gold</thingDef>
+				<count>300</count>
+			</li>
+			<li Class="ScenPart_StartingThing_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>MealSurvivalPack</thingDef>
+				<count>30</count>
+			</li>
+			<li Class="ScenPart_StartingThing_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>MedicineUltratech</thingDef>
+				<count>25</count>
+			</li>
+			<li Class="ScenPart_StartingThing_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>ComponentIndustrial</thingDef>
+				<count>10</count>
+			</li>
+			<li Class="ScenPart_StartingThing_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>Steel</thingDef>
+				<count>150</count>
+			</li>
+			<li Class="ScenPart_StartingThing_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>Kurin_Middle_Body_Armor</thingDef>
+				<stuff>Steel</stuff>
+			</li>
+			<li Class="ScenPart_StartingThing_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>Kurin_Gun_Charge_Rifle</thingDef>
+			</li>
+			<li Class="ScenPart_StartingThing_Defined">
+				<def>StartingThing_Defined</def>
+				<thingDef>Kurin_OnSkin_Traditional_Coat</thingDef>
+				<stuff>Leather_Thrumbo</stuff>
+			</li>
+			<!-- Game start dialog -->
+			<li Class="ScenPart_GameStartDialog">
+				<def>GameStartDialog</def>
+				<text>"Я не знаю, кто я. Но я должна выжить."</text>
+				<textKey>GameStartDialog</textKey>
+				<closeSound>GameStartSting</closeSound>
+			</li>
+
+		</parts>
+	</scenario>
+</ScenarioDef>
+
+</Defs>

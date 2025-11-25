@@ -13,5 +13,26 @@
   <Kurin_Turret.label>Куринские оборонительные сооружения</Kurin_Turret.label>
   <Kurin_Turret.description>Исследует способ сборки древних оборонительных турелей.</Kurin_Turret.description>
 
+  <Kurin_ResearchTab.label>Курин</Kurin_ResearchTab.label>
+  <Kurin_ResearchTab.generalTitle>Исследования куринов</Kurin_ResearchTab.generalTitle>
+  <Kurin_ResearchTab.generalDescription>Разблокируйте технологии, созданные специально для куринов</Kurin_ResearchTab.generalDescription>
+
+  <Kurin_Flower.label>Конваллярия</Kurin_Flower.label>
+  <Kurin_Flower.description>Изучите методы выращивания Конваллярии - генетически модифицированного растения сияющего мира, производящего синтетическую нить.</Kurin_Flower.description>
+
+  <Kurin_CombatT2.label>Базовая боевая экипировка куринов</Kurin_CombatT2.label>
+  <Kurin_CombatT2.description>Исследует способ производства базовых боевых доспехов и оружия.</Kurin_CombatT2.description>
+
+  <Kurin_CombatT3.label>Продвинутая боевая экипировка куринов</Kurin_CombatT3.label>
+  <Kurin_CombatT3.description>Исследует способ производства продвинутых боевых доспехов и оружия.</Kurin_CombatT3.description>
+
+  <Kurin_Mechtech.label>Куринская мехатехника</Kurin_Mechtech.label>
+  <Kurin_Mechtech.description>Исследует способ производства технологий механитора, адаптированных для куринов.</Kurin_Mechtech.description>
+
+  <Kurin_CombatT4.label>Космическая боевая экипировка куринов</Kurin_CombatT4.label>
+  <Kurin_CombatT4.description>Исследует способ производства импульсно-заряженного куринского оружия.</Kurin_CombatT4.description>
+
+  <Kurin_ApparelT4.label>Реплики брони Куринской республики</Kurin_ApparelT4.label>
+  <Kurin_ApparelT4.description>Исследует способ производства реплик военной брони куринов.</Kurin_ApparelT4.description>
 
 </LanguageData>

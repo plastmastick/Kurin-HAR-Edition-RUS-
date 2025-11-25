@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Оружие ближнего боя -->
+  <Kurin_MeleeWeapon_Ceremonial_Sword.label>Куринский церемониальный меч</Kurin_MeleeWeapon_Ceremonial_Sword.label>
+  <Kurin_MeleeWeapon_Ceremonial_Sword.description>Большой меч для церемониальной гвардии куринов. Хотя он неуклюжий и медленный, он может разрубить человека пополам.</Kurin_MeleeWeapon_Ceremonial_Sword.description>
+  <Kurin_MeleeWeapon_Ceremonial_Sword.tools.0.label>Лезвие</Kurin_MeleeWeapon_Ceremonial_Sword.tools.0.label>
+  <Kurin_MeleeWeapon_Ceremonial_Sword.tools.1.label>Плоская сторона</Kurin_MeleeWeapon_Ceremonial_Sword.tools.1.label>
+
+  <!-- Заряженная винтовка -->
+  <Kurin_Gun_Charge_Rifle.label>Куринская заряженная винтовка</Kurin_Gun_Charge_Rifle.label>
+  <Kurin_Gun_Charge_Rifle.description>Уникальная антимеханоидная винтовка аоларианской конструкции. Заряженные выстрелы предназначены для пробития толстой брони механоидов.</Kurin_Gun_Charge_Rifle.description>
+  <Kurin_Gun_Charge_Rifle.tools.0.label>Приклад</Kurin_Gun_Charge_Rifle.tools.0.label>
+  <Kurin_Gun_Charge_Rifle.tools.1.label>Ствол</Kurin_Gun_Charge_Rifle.tools.1.label>
+  <Kurin_Bullet_Charge_Rifle.label>Пуля куринской заряженной винтовки</Kurin_Bullet_Charge_Rifle.label>
+
+  <!-- Заряженный дробовик -->
+  <Kurin_Gun_Charge_Shotgun.label>Куринский заряженный дробовик</Kurin_Gun_Charge_Shotgun.label>
+  <Kurin_Gun_Charge_Shotgun.description>Уникальное штурмовое оружие аоларианской конструкции. Куринские ударные войска использовали это оружие для уничтожения скоплений механоидов, приземлявшихся вблизи куринских городов.</Kurin_Gun_Charge_Shotgun.description>
+  <Kurin_Gun_Charge_Shotgun.tools.0.label>Приклад</Kurin_Gun_Charge_Shotgun.tools.0.label>
+  <Kurin_Gun_Charge_Shotgun.tools.1.label>Ствол</Kurin_Gun_Charge_Shotgun.tools.1.label>
+  <Kurin_Bullet_Charge_Shotgun.label>Пуля куринского заряженного дробовика</Kurin_Bullet_Charge_Shotgun.label>
+
+  <!-- Дробовик -->
+  <Kurin_Gun_Shotgun.label>Куринский дробовик</Kurin_Gun_Shotgun.label>
+  <Kurin_Gun_Shotgun.description>Оружие ближнего боя, используемое спецназом куринов. Смертоносен и точен на близкой дистанции, пробивает самую толстую пехотную броню.</Kurin_Gun_Shotgun.description>
+  <Kurin_Gun_Shotgun.tools.0.label>Приклад</Kurin_Gun_Shotgun.tools.0.label>
+  <Kurin_Gun_Shotgun.tools.1.label>Ствол</Kurin_Gun_Shotgun.tools.1.label>
+  <Kurin_Bullet_Shotgun.label>Пуля куринского дробовика</Kurin_Bullet_Shotgun.label>
+
+  <!-- Суригум -->
+  <Kurin_Bullet_Surigum.label>Куринский суригум</Kurin_Bullet_Surigum.label>
+  <Kurin_Gun_Surigum.label>Куринский суригум</Kurin_Gun_Surigum.label>
+  <Kurin_Gun_Surigum.description>Традиционный метательный нож. Подходит для метания и резания. Любимое оружие куринских инфильтраторов, которые ценят его за способность проходить через щитовые пояса.</Kurin_Gun_Surigum.description>
+  <Kurin_Gun_Surigum.tools.0.label>Лезвие</Kurin_Gun_Surigum.tools.0.label>
+
+  <!-- Штурмовая винтовка -->
+  <Kurin_Gun_Assault_Rifle.label>Куринская штурмовая винтовка</Kurin_Gun_Assault_Rifle.label>
+  <Kurin_Gun_Assault_Rifle.description>Уникальная штурмовая винтовка, разработанная куринами. Более быстрые снаряды и высокая бронепробиваемость ценой меньшего урона и короткой очереди. Дешевле в производстве, чем традиционная штурмовая винтовка.</Kurin_Gun_Assault_Rifle.description>
+  <Kurin_Gun_Assault_Rifle.tools.0.label>Приклад</Kurin_Gun_Assault_Rifle.tools.0.label>
+  <Kurin_Gun_Assault_Rifle.tools.1.label>Ствол</Kurin_Gun_Assault_Rifle.tools.1.label>
+  <Kurin_Bullet_Assault_Rifle.label>Пуля куринской штурмовой винтовки</Kurin_Bullet_Assault_Rifle.label>
+
+  <!-- Карабин -->
+  <Kurin_Gun_Carbine.label>Куринский карабин</Kurin_Gun_Carbine.label>
+  <Kurin_Gun_Carbine.description>Уникальный карабин, разработанный куринами. Короткая дистанция, но более быстрые снаряды и высокая бронепробиваемость. Дешевле в производстве, чем традиционная штурмовая винтовка.</Kurin_Gun_Carbine.description>
+  <Kurin_Gun_Carbine.tools.0.label>Приклад</Kurin_Gun_Carbine.tools.0.label>
+  <Kurin_Gun_Carbine.tools.1.label>Ствол</Kurin_Gun_Carbine.tools.1.label>
+  <Kurin_Bullet_Carbine.label>Пуля куринского карабина</Kurin_Bullet_Carbine.label>
+
+  <!-- Снайперская винтовка -->
+  <Kurin_Gun_Sniper_Rifle.label>Куринская снайперская винтовка</Kurin_Gun_Sniper_Rifle.label>
+  <Kurin_Gun_Sniper_Rifle.description>Уникальная марксманская винтовка, разработанная куринами. Стреляет быстрее, чем снайперская винтовка, но с меньшим уроном и бронепробиваемостью.</Kurin_Gun_Sniper_Rifle.description>
+  <Kurin_Gun_Sniper_Rifle.tools.0.label>Приклад</Kurin_Gun_Sniper_Rifle.tools.0.label>
+  <Kurin_Gun_Sniper_Rifle.tools.1.label>Ствол</Kurin_Gun_Sniper_Rifle.tools.1.label>
+  <Kurin_Bullet_Sniper_Rifle.label>Пуля куринской снайперской винтовки</Kurin_Bullet_Sniper_Rifle.label>
+
+   <!-- Куринское Церемониальное Алебардное Оружие -->
+
+  <Kurin_MeleeWeapon_Ceremonial_Polearm.label>Куринский церемониальный полэкс</Kurin_MeleeWeapon_Ceremonial_Polearm.label>
+  <Kurin_MeleeWeapon_Ceremonial_Polearm.description>Большой шест с острыми лезвиями на обоих концах. Полэкс, подходящий для быстрых рубящих и колющих ударов, был грозным оружием куринской гвардии. Однако после падения Куринской Республики оригинальный и смертоносный дизайн был утрачен, и это оружие теперь является простой репликой.</Kurin_MeleeWeapon_Ceremonial_Polearm.description>
+  <Kurin_MeleeWeapon_Ceremonial_Polearm.tools.0.label>Остриё</Kurin_MeleeWeapon_Ceremonial_Polearm.tools.0.label>
+  <Kurin_MeleeWeapon_Ceremonial_Polearm.tools.1.label>Лезвие</Kurin_MeleeWeapon_Ceremonial_Polearm.tools.1.label>
+
+
+  <!-- Куринское Нано-лезвие Полэкс -->
+
+  <Kurin_nanoedge.label>Куринский полэкс с нанолезвием</Kurin_nanoedge.label>
+  <Kurin_nanoedge.description>Оружие для осад, выдававшееся элитной гвардии Куринской Республики. Лезвие оснащено механитом, что делает его сравнимым по остроте с моно-мечом. Подлинный артефакт старой Куринской Республики.</Kurin_nanoedge.description>
+  <Kurin_nanoedge.tools.0.label>Остриё</Kurin_nanoedge.tools.0.label>
+  <Kurin_nanoedge.tools.1.label>Лезвие</Kurin_nanoedge.tools.1.label>
+
+</LanguageData>
